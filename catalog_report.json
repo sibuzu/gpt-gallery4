@@ -1,10 +1,14 @@
 {
-  "total_categorized": 9,
+  "total_categorized": 14,
   "category_counts": {
+    "BLEACH": 1,
+    "Fate 系列": 1,
     "劍魂": 1,
+    "勝利の女神：NIKKE": 1,
     "崩壊3rd": 1,
-    "快打旋風": 5,
+    "崩壊：スターレイル": 1,
+    "快打旋風": 6,
     "鐵拳": 2
   },
-  "with_descriptions": 9
+  "with_descriptions": 14
 }

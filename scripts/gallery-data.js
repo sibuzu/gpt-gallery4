@@ -1,5 +1,21 @@
 window.__GALLERY_IMAGES__ = [
   {
+    "category": "BLEACH",
+    "src": "images/BLEACH/雛森桃.png",
+    "hasDescription": true,
+    "title": "雛森桃",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/イリヤスフィール・フォン・アインツベルン.png",
+    "hasDescription": true,
+    "title": "イリヤスフィール・フォン・アインツベルン",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "劍魂",
     "src": "images/劍魂/Xianghua Chai.png",
     "hasDescription": true,
@@ -8,10 +24,26 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Marian.png",
+    "hasDescription": true,
+    "title": "Marian",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "崩壊3rd",
     "src": "images/崩壊3rd/アポニア.png",
     "hasDescription": true,
     "title": "アポニア",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/銀狼.png",
+    "hasDescription": true,
+    "title": "銀狼",
     "width": 941,
     "height": 1672
   },
@@ -38,6 +70,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Rainbow Mika",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "快打旋風",
+    "src": "images/快打旋風/Rose.png",
+    "hasDescription": true,
+    "title": "Rose",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "快打旋風",
