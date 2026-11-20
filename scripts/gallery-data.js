@@ -625,35 +625,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "NARUTO／BORUTO",
-    "src": "images/NARUTO／BORUTO/綱手-02.png",
-    "hasDescription": true,
-    "title": "綱手-02",
-    "width": 942,
-    "height": 1669
-  },
-  {
-    "category": "NARUTO／BORUTO",
-    "src": "images/NARUTO／BORUTO/綱手-03.png",
-    "hasDescription": true,
-    "title": "綱手-03",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "NARUTO／BORUTO",
-    "src": "images/NARUTO／BORUTO/綱手-04.png",
-    "hasDescription": true,
-    "title": "綱手-04",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "NARUTO／BORUTO",
     "src": "images/NARUTO／BORUTO/綱手.png",
     "hasDescription": true,
     "title": "綱手",
-    "width": 942,
-    "height": 1670
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "NieR",
@@ -1004,14 +980,6 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Tomb Raider/Jacqueline Natla.png",
     "hasDescription": true,
     "title": "Jacqueline Natla",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "Tomb Raider",
-    "src": "images/Tomb Raider/Lara Croft-02.png",
-    "hasDescription": true,
-    "title": "Lara Croft-02",
     "width": 941,
     "height": 1672
   },

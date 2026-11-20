@@ -1,5 +1,5 @@
 {
-  "total_categorized": 347,
+  "total_categorized": 343,
   "category_counts": {
     "Bayonetta": 4,
     "BLACK CAT": 2,
@@ -12,7 +12,7 @@
     "FINAL FANTASY": 17,
     "GHOST IN THE SHELL": 1,
     "Metroid": 1,
-    "NARUTO／BORUTO": 10,
+    "NARUTO／BORUTO": 7,
     "NieR": 6,
     "ONE PIECE": 11,
     "Persona": 9,
@@ -20,7 +20,7 @@
     "Resident Evil": 9,
     "SPY×FAMILY": 1,
     "The Witcher": 4,
-    "Tomb Raider": 4,
+    "Tomb Raider": 3,
     "うる星やつら": 5,
     "この素晴らしい世界に祝福を！": 4,
     "とある科学の超電磁砲": 1,
@@ -57,5 +57,5 @@
     "鬼滅の刃": 6,
     "魔法少女まどか☆マギカ": 2
   },
-  "with_descriptions": 347
+  "with_descriptions": 343
 }
