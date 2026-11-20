@@ -40,6 +40,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "BLACK CAT",
+    "src": "images/BLACK CAT/霧崎恭子.png",
+    "hasDescription": true,
+    "title": "霧崎恭子",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "BLACK LAGOON",
     "src": "images/BLACK LAGOON/Balalaika.png",
     "hasDescription": true,
@@ -577,6 +585,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "NieR",
+    "src": "images/NieR/Popola.png",
+    "hasDescription": true,
+    "title": "Popola",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "NieR",
     "src": "images/NieR/Yonah.png",
     "hasDescription": true,
     "title": "Yonah",
@@ -749,6 +765,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "Emilia",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "Re:ゼロから始める異世界生活",
+    "src": "images/Re:ゼロから始める異世界生活/Priscilla Barielle.png",
+    "hasDescription": true,
+    "title": "Priscilla Barielle",
+    "width": 942,
     "height": 1670
   },
   {
@@ -1153,6 +1177,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "僕のヒーローアカデミア",
+    "src": "images/僕のヒーローアカデミア/トガヒミコ.png",
+    "hasDescription": true,
+    "title": "トガヒミコ",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "僕のヒーローアカデミア",
     "src": "images/僕のヒーローアカデミア/マウントレディ.png",
     "hasDescription": true,
     "title": "マウントレディ",
@@ -1164,6 +1196,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/僕のヒーローアカデミア/芦戸三奈.png",
     "hasDescription": true,
     "title": "芦戸三奈",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "劍魂",
+    "src": "images/劍魂/Seong Mi-na.png",
+    "hasDescription": true,
+    "title": "Seong Mi-na",
     "width": 942,
     "height": 1670
   },
@@ -1321,6 +1361,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/ディシア.png",
+    "hasDescription": true,
+    "title": "ディシア",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "原神 Genshin Impact",
     "src": "images/原神 Genshin Impact/ナヒーダ.png",
     "hasDescription": true,
     "title": "ナヒーダ",
@@ -1429,6 +1477,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "雷電将軍",
     "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/香菱.png",
+    "hasDescription": true,
+    "title": "香菱",
+    "width": 941,
     "height": 1670
   },
   {
@@ -1582,6 +1638,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "ブラックスワン",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/ブローニャ.png",
+    "hasDescription": true,
+    "title": "ブローニャ",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "崩壊：スターレイル",
@@ -1790,6 +1854,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Isla",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "拳皇",
+    "src": "images/拳皇/King.png",
+    "hasDescription": true,
+    "title": "King",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "拳皇",
@@ -2153,6 +2225,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "進撃の巨人",
+    "src": "images/進撃の巨人/ピーク・フィンガー.png",
+    "hasDescription": true,
+    "title": "ピーク・フィンガー",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "進撃の巨人",
     "src": "images/進撃の巨人/ペトラ・ラル.png",
     "hasDescription": true,
     "title": "ペトラ・ラル",
@@ -2286,6 +2366,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "神崎アオイ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "鬼滅の刃",
+    "src": "images/鬼滅の刃/胡蝶しのぶ.png",
+    "hasDescription": true,
+    "title": "胡蝶しのぶ",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "鬼滅の刃",

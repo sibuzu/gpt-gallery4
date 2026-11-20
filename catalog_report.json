@@ -1,8 +1,8 @@
 {
-  "total_categorized": 288,
+  "total_categorized": 299,
   "category_counts": {
     "Bayonetta": 4,
-    "BLACK CAT": 1,
+    "BLACK CAT": 2,
     "BLACK LAGOON": 3,
     "BLEACH": 11,
     "Blue Archive": 7,
@@ -13,10 +13,10 @@
     "GHOST IN THE SHELL": 1,
     "Metroid": 1,
     "NARUTO／BORUTO": 6,
-    "NieR": 5,
+    "NieR": 6,
     "ONE PIECE": 11,
     "Persona": 9,
-    "Re:ゼロから始める異世界生活": 1,
+    "Re:ゼロから始める異世界生活": 2,
     "Resident Evil": 7,
     "SPY×FAMILY": 1,
     "The Witcher": 4,
@@ -34,16 +34,16 @@
     "ダンダダン": 1,
     "チェンソーマン": 7,
     "亂馬½": 5,
-    "僕のヒーローアカデミア": 3,
-    "劍魂": 4,
+    "僕のヒーローアカデミア": 4,
+    "劍魂": 5,
     "勝利の女神：NIKKE": 13,
-    "原神 Genshin Impact": 16,
+    "原神 Genshin Impact": 18,
     "名探偵コナン": 2,
     "呪術廻戦": 7,
     "崩壊3rd": 7,
-    "崩壊：スターレイル": 12,
+    "崩壊：スターレイル": 13,
     "快打旋風": 12,
-    "拳皇": 11,
+    "拳皇": 12,
     "新世紀エヴァンゲリオン": 4,
     "機動戦士ガンダムSEED": 3,
     "灼眼のシャナ": 2,
@@ -52,9 +52,9 @@
     "真人快打": 9,
     "美少女戦士セーラームーン": 5,
     "葬送のフリーレン": 4,
-    "進撃の巨人": 6,
+    "進撃の巨人": 7,
     "鐵拳": 10,
-    "鬼滅の刃": 5
+    "鬼滅の刃": 6
   },
-  "with_descriptions": 288
+  "with_descriptions": 299
 }
