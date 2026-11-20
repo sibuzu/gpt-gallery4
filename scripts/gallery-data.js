@@ -41,6 +41,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLEACH",
+    "src": "images/BLEACH/四楓院夜一.png",
+    "hasDescription": true,
+    "title": "四楓院夜一",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "BLEACH",
     "src": "images/BLEACH/志波空鶴.png",
     "hasDescription": true,
     "title": "志波空鶴",
@@ -265,6 +273,22 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "うる星やつら",
+    "src": "images/うる星やつら/三宅しのぶ.png",
+    "hasDescription": true,
+    "title": "三宅しのぶ",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "うる星やつら",
+    "src": "images/うる星やつら/弁天.png",
+    "hasDescription": true,
+    "title": "弁天",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "うる星やつら",
     "src": "images/うる星やつら/藤波竜之介.png",
     "hasDescription": true,
     "title": "藤波竜之介",
@@ -273,10 +297,34 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "この素晴らしい世界に祝福を！",
+    "src": "images/この素晴らしい世界に祝福を！/Darkness.png",
+    "hasDescription": true,
+    "title": "Darkness",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "この素晴らしい世界に祝福を！",
     "src": "images/この素晴らしい世界に祝福を！/ゆんゆん.png",
     "hasDescription": true,
     "title": "ゆんゆん",
     "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "カウボーイビバップ",
+    "src": "images/カウボーイビバップ/Faye Valentine.png",
+    "hasDescription": true,
+    "title": "Faye Valentine",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "キルラキル",
+    "src": "images/キルラキル/満艦飾マコ.png",
+    "hasDescription": true,
+    "title": "満艦飾マコ",
+    "width": 941,
     "height": 1670
   },
   {
@@ -294,6 +342,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Cornelia li Britannia",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "コードギアス",
+    "src": "images/コードギアス/Kallen Stadtfeld.png",
+    "hasDescription": true,
+    "title": "Kallen Stadtfeld",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "ソードアート・オンライン",
@@ -342,6 +398,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "東山コベニ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "亂馬½",
+    "src": "images/亂馬½/早乙女のどか.png",
+    "hasDescription": true,
+    "title": "早乙女のどか",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "劍魂",
@@ -422,6 +486,22 @@ window.__GALLERY_IMAGES__ = [
     "title": "甘雨",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/胡桃-02.png",
+    "hasDescription": true,
+    "title": "胡桃-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/胡桃.png",
+    "hasDescription": true,
+    "title": "胡桃",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "原神 Genshin Impact",
@@ -513,6 +593,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/符玄.png",
+    "hasDescription": true,
+    "title": "符玄",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "崩壊：スターレイル",
     "src": "images/崩壊：スターレイル/銀狼.png",
     "hasDescription": true,
     "title": "銀狼",
@@ -598,6 +686,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "式波・アスカ・ラングレー",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "機動戦士ガンダムSEED",
+    "src": "images/機動戦士ガンダムSEED/Cagalli Yula Athha.png",
+    "hasDescription": true,
+    "title": "Cagalli Yula Athha",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "機動戦士ガンダムSEED",
