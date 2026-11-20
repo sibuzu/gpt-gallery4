@@ -1017,6 +1017,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "亂馬½",
+    "src": "images/亂馬½/九能小太刀.png",
+    "hasDescription": true,
+    "title": "九能小太刀",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "亂馬½",
     "src": "images/亂馬½/早乙女のどか.png",
     "hasDescription": true,
     "title": "早乙女のどか",
@@ -1473,6 +1481,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/霊砂.png",
+    "hasDescription": true,
+    "title": "霊砂",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "崩壊：スターレイル",
     "src": "images/崩壊：スターレイル/黄泉.png",
     "hasDescription": true,
     "title": "黄泉",
@@ -1814,6 +1830,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Skarlet",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "真人快打",
+    "src": "images/真人快打/Sonya Blade.png",
+    "hasDescription": true,
+    "title": "Sonya Blade",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "真人快打",
