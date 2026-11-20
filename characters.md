@@ -66,8 +66,7 @@
 16. Katarina Alves
 17. Josie Rizal
 18. Lucky Chloe
-19. Panda
-20. Angel
+19. Angel
 
 ### **Dead or Alive（生死格鬥）**
 

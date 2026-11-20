@@ -2585,14 +2585,6 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "鐵拳",
-    "src": "images/鐵拳/Panda.png",
-    "hasDescription": true,
-    "title": "Panda",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "鐵拳",
     "src": "images/鐵拳/Zafina.png",
     "hasDescription": true,
     "title": "Zafina",
