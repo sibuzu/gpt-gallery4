@@ -409,6 +409,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Rinoa Heartilly.png",
+    "hasDescription": true,
+    "title": "Rinoa Heartilly",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "FINAL FANTASY",
     "src": "images/FINAL FANTASY/Serah Farron.png",
     "hasDescription": true,
     "title": "Serah Farron",
@@ -1097,6 +1105,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Red Hood.png",
+    "hasDescription": true,
+    "title": "Red Hood",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Rosanna.png",
     "hasDescription": true,
     "title": "Rosanna",
@@ -1145,11 +1161,27 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/ファルザン.png",
+    "hasDescription": true,
+    "title": "ファルザン",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "原神 Genshin Impact",
     "src": "images/原神 Genshin Impact/リネット.png",
     "hasDescription": true,
     "title": "リネット",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/八重神子.png",
+    "hasDescription": true,
+    "title": "八重神子",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "原神 Genshin Impact",
@@ -1278,6 +1310,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "来栖華",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "呪術廻戦",
+    "src": "images/呪術廻戦/禪院真希.png",
+    "hasDescription": true,
+    "title": "禪院真希",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "崩壊3rd",
@@ -1417,6 +1457,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "快打旋風",
+    "src": "images/快打旋風/Kimberly Jackson.png",
+    "hasDescription": true,
+    "title": "Kimberly Jackson",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "快打旋風",
     "src": "images/快打旋風/Lucia Morgan.png",
     "hasDescription": true,
     "title": "Lucia Morgan",
@@ -1534,6 +1582,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "式波・アスカ・ラングレー",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "新世紀エヴァンゲリオン",
+    "src": "images/新世紀エヴァンゲリオン/真希波・マリ・イラストリアス.png",
+    "hasDescription": true,
+    "title": "真希波・マリ・イラストリアス",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "新世紀エヴァンゲリオン",
@@ -1801,6 +1857,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "進撃の巨人",
+    "src": "images/進撃の巨人/ミカサ・アッカーマン.png",
+    "hasDescription": true,
+    "title": "ミカサ・アッカーマン",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "進撃の巨人",
     "src": "images/進撃の巨人/ユミル.png",
     "hasDescription": true,
     "title": "ユミル",
@@ -1894,6 +1958,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "風間飛鳥",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "鬼滅の刃",
+    "src": "images/鬼滅の刃/神崎アオイ.png",
+    "hasDescription": true,
+    "title": "神崎アオイ",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "鬼滅の刃",
