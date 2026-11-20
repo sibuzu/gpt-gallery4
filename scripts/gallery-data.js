@@ -208,6 +208,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "Re:ゼロから始める異世界生活",
+    "src": "images/Re:ゼロから始める異世界生活/Emilia.png",
+    "hasDescription": true,
+    "title": "Emilia",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "Resident Evil",
     "src": "images/Resident Evil/Lady Cassandra Dimitrescu.png",
     "hasDescription": true,
@@ -232,6 +240,30 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "うる星やつら",
+    "src": "images/うる星やつら/ラム.png",
+    "hasDescription": true,
+    "title": "ラム",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "うる星やつら",
+    "src": "images/うる星やつら/藤波竜之介.png",
+    "hasDescription": true,
+    "title": "藤波竜之介",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "この素晴らしい世界に祝福を！",
+    "src": "images/この素晴らしい世界に祝福を！/ゆんゆん.png",
+    "hasDescription": true,
+    "title": "ゆんゆん",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "クレイモア",
     "src": "images/クレイモア/Galatea.png",
     "hasDescription": true,
@@ -246,6 +278,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Cornelia li Britannia",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "ダンダダン",
+    "src": "images/ダンダダン/ターボババア.png",
+    "hasDescription": true,
+    "title": "ターボババア",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "チェンソーマン",
@@ -321,9 +361,33 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/アルレッキーノ.png",
+    "hasDescription": true,
+    "title": "アルレッキーノ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/リネット.png",
+    "hasDescription": true,
+    "title": "リネット",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "原神 Genshin Impact",
     "src": "images/原神 Genshin Impact/千織.png",
     "hasDescription": true,
     "title": "千織",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/夜蘭.png",
+    "hasDescription": true,
+    "title": "夜蘭",
     "width": 942,
     "height": 1670
   },
@@ -369,6 +433,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "呪術廻戦",
+    "src": "images/呪術廻戦/庵歌姫.png",
+    "hasDescription": true,
+    "title": "庵歌姫",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "呪術廻戦",
     "src": "images/呪術廻戦/来栖華.png",
     "hasDescription": true,
     "title": "来栖華",
@@ -398,6 +470,22 @@ window.__GALLERY_IMAGES__ = [
     "title": "フカ",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/ブラックスワン.png",
+    "hasDescription": true,
+    "title": "ブラックスワン",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/御空.png",
+    "hasDescription": true,
+    "title": "御空",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "崩壊：スターレイル",
@@ -472,6 +560,22 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "拳皇",
+    "src": "images/拳皇/ユリ・サカザキ.png",
+    "hasDescription": true,
+    "title": "ユリ・サカザキ",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "新世紀エヴァンゲリオン",
+    "src": "images/新世紀エヴァンゲリオン/式波・アスカ・ラングレー.png",
+    "hasDescription": true,
+    "title": "式波・アスカ・ラングレー",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "機動戦士ガンダムSEED",
     "src": "images/機動戦士ガンダムSEED/Meer Campbell.png",
     "hasDescription": true,
@@ -536,6 +640,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "進撃の巨人",
+    "src": "images/進撃の巨人/リコ・ブレツェンスカ.png",
+    "hasDescription": true,
+    "title": "リコ・ブレツェンスカ",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "鐵拳",
     "src": "images/鐵拳/Julia Chang.png",
     "hasDescription": true,
@@ -589,6 +701,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "風間準",
     "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "鬼滅の刃",
+    "src": "images/鬼滅の刃/須磨.png",
+    "hasDescription": true,
+    "title": "須磨",
+    "width": 941,
     "height": 1670
   }
 ];
