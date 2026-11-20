@@ -1,19 +1,24 @@
 {
-  "total_categorized": 20,
+  "total_categorized": 35,
   "category_counts": {
+    "Bayonetta": 1,
     "BLEACH": 2,
-    "Blue Archive": 1,
-    "Fate 系列": 1,
+    "Blue Archive": 3,
+    "Fate 系列": 4,
+    "NARUTO／BORUTO": 1,
     "Persona": 1,
     "チェンソーマン": 1,
     "劍魂": 1,
-    "勝利の女神：NIKKE": 1,
+    "勝利の女神：NIKKE": 2,
+    "原神 Genshin Impact": 1,
+    "呪術廻戦": 1,
     "崩壊3rd": 1,
-    "崩壊：スターレイル": 1,
+    "崩壊：スターレイル": 2,
     "快打旋風": 6,
     "生死格鬥": 1,
+    "真人快打": 1,
     "進撃の巨人": 1,
-    "鐵拳": 2
+    "鐵拳": 5
   },
-  "with_descriptions": 20
+  "with_descriptions": 35
 }

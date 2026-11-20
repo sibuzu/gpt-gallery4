@@ -1,5 +1,13 @@
 window.__GALLERY_IMAGES__ = [
   {
+    "category": "Bayonetta",
+    "src": "images/Bayonetta/Jeanne.png",
+    "hasDescription": true,
+    "title": "Jeanne",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "BLEACH",
     "src": "images/BLEACH/涅ネム.png",
     "hasDescription": true,
@@ -17,11 +25,27 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Blue Archive",
+    "src": "images/Blue Archive/浅黄ムツキ.png",
+    "hasDescription": true,
+    "title": "浅黄ムツキ",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "Blue Archive",
     "src": "images/Blue Archive/角楯カリン.png",
     "hasDescription": true,
     "title": "角楯カリン",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "Blue Archive",
+    "src": "images/Blue Archive/黒見セリカ.png",
+    "hasDescription": true,
+    "title": "黒見セリカ",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "Fate 系列",
@@ -30,6 +54,38 @@ window.__GALLERY_IMAGES__ = [
     "title": "イリヤスフィール・フォン・アインツベルン",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/ジャンヌ・ダルク〔オルタ〕.png",
+    "hasDescription": true,
+    "title": "ジャンヌ・ダルク〔オルタ〕",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/メドゥーサ.png",
+    "hasDescription": true,
+    "title": "メドゥーサ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/遠坂凛.png",
+    "hasDescription": true,
+    "title": "遠坂凛",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/日向ハナビ.png",
+    "hasDescription": true,
+    "title": "日向ハナビ",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "Persona",
@@ -57,11 +113,35 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Emma.png",
+    "hasDescription": true,
+    "title": "Emma",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Marian.png",
     "hasDescription": true,
     "title": "Marian",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/甘雨.png",
+    "hasDescription": true,
+    "title": "甘雨",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "呪術廻戦",
+    "src": "images/呪術廻戦/三輪霞.png",
+    "hasDescription": true,
+    "title": "三輪霞",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "崩壊3rd",
@@ -78,6 +158,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "銀狼",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/黄泉.png",
+    "hasDescription": true,
+    "title": "黄泉",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "快打旋風",
@@ -136,10 +224,34 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "真人快打",
+    "src": "images/真人快打/Li Mei.png",
+    "hasDescription": true,
+    "title": "Li Mei",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "進撃の巨人",
     "src": "images/進撃の巨人/アニ・レオンハート.png",
     "hasDescription": true,
     "title": "アニ・レオンハート",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "鐵拳",
+    "src": "images/鐵拳/Julia Chang.png",
+    "hasDescription": true,
+    "title": "Julia Chang",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "鐵拳",
+    "src": "images/鐵拳/Katarina Alves.png",
+    "hasDescription": true,
+    "title": "Katarina Alves",
     "width": 941,
     "height": 1672
   },
@@ -158,5 +270,13 @@ window.__GALLERY_IMAGES__ = [
     "title": "Zafina",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "鐵拳",
+    "src": "images/鐵拳/風間準.png",
+    "hasDescription": true,
+    "title": "風間準",
+    "width": 942,
+    "height": 1670
   }
 ];
