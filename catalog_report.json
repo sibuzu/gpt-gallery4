@@ -1,5 +1,5 @@
 {
-  "total_categorized": 337,
+  "total_categorized": 336,
   "category_counts": {
     "Bayonetta": 4,
     "BLACK CAT": 2,
@@ -43,7 +43,7 @@
     "崩壊3rd": 7,
     "崩壊：スターレイル": 14,
     "快打旋風": 13,
-    "拳皇": 16,
+    "拳皇": 15,
     "新世紀エヴァンゲリオン": 4,
     "機動戦士ガンダムSEED": 3,
     "灼眼のシャナ": 2,
@@ -57,5 +57,5 @@
     "鬼滅の刃": 6,
     "魔法少女まどか☆マギカ": 2
   },
-  "with_descriptions": 337
+  "with_descriptions": 336
 }

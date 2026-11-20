@@ -2065,14 +2065,6 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "拳皇",
-    "src": "images/拳皇/Leona Heidern-02.png",
-    "hasDescription": true,
-    "title": "Leona Heidern-02",
-    "width": 942,
-    "height": 1669
-  },
-  {
-    "category": "拳皇",
     "src": "images/拳皇/Leona Heidern.png",
     "hasDescription": true,
     "title": "Leona Heidern",
