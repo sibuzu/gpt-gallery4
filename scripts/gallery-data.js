@@ -249,6 +249,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/テマリ.png",
+    "hasDescription": true,
+    "title": "テマリ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "NARUTO／BORUTO",
     "src": "images/NARUTO／BORUTO/日向ハナビ.png",
     "hasDescription": true,
     "title": "日向ハナビ",
@@ -868,6 +876,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/犬夜叉/桔梗.png",
     "hasDescription": true,
     "title": "桔梗",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "生死格鬥",
+    "src": "images/生死格鬥/Mila.png",
+    "hasDescription": true,
+    "title": "Mila",
     "width": 941,
     "height": 1672
   },

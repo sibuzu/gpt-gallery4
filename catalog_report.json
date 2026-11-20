@@ -1,5 +1,5 @@
 {
-  "total_categorized": 127,
+  "total_categorized": 129,
   "category_counts": {
     "Bayonetta": 3,
     "BLACK LAGOON": 3,
@@ -10,7 +10,7 @@
     "Fate 系列": 7,
     "FINAL FANTASY": 4,
     "Metroid": 1,
-    "NARUTO／BORUTO": 1,
+    "NARUTO／BORUTO": 2,
     "NieR": 2,
     "ONE PIECE": 4,
     "Persona": 4,
@@ -40,12 +40,12 @@
     "新世紀エヴァンゲリオン": 1,
     "機動戦士ガンダムSEED": 2,
     "犬夜叉": 1,
-    "生死格鬥": 1,
+    "生死格鬥": 2,
     "真人快打": 3,
     "美少女戦士セーラームーン": 2,
     "進撃の巨人": 3,
     "鐵拳": 8,
     "鬼滅の刃": 1
   },
-  "with_descriptions": 127
+  "with_descriptions": 129
 }
