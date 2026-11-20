@@ -1,14 +1,15 @@
 {
-  "total_categorized": 129,
+  "total_categorized": 134,
   "category_counts": {
     "Bayonetta": 3,
     "BLACK LAGOON": 3,
     "BLEACH": 8,
     "Blue Archive": 3,
     "Devil May Cry": 1,
-    "FAIRY TAIL": 1,
+    "FAIRY TAIL": 2,
     "Fate 系列": 7,
-    "FINAL FANTASY": 4,
+    "FINAL FANTASY": 5,
+    "GHOST IN THE SHELL": 1,
     "Metroid": 1,
     "NARUTO／BORUTO": 2,
     "NieR": 2,
@@ -32,8 +33,9 @@
     "劍魂": 1,
     "勝利の女神：NIKKE": 5,
     "原神 Genshin Impact": 8,
+    "名探偵コナン": 1,
     "呪術廻戦": 5,
-    "崩壊3rd": 3,
+    "崩壊3rd": 4,
     "崩壊：スターレイル": 5,
     "快打旋風": 6,
     "拳皇": 4,
@@ -47,5 +49,5 @@
     "鐵拳": 8,
     "鬼滅の刃": 1
   },
-  "with_descriptions": 129
+  "with_descriptions": 134
 }

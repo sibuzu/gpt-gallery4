@@ -152,6 +152,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "FAIRY TAIL",
+    "src": "images/FAIRY TAIL/レビィ・マクガーデン.png",
+    "hasDescription": true,
+    "title": "レビィ・マクガーデン",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "Fate 系列",
     "src": "images/Fate 系列/イリヤスフィール・フォン・アインツベルン.png",
     "hasDescription": true,
@@ -238,6 +246,22 @@ window.__GALLERY_IMAGES__ = [
     "title": "Paine",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Serah Farron.png",
+    "hasDescription": true,
+    "title": "Serah Farron",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "GHOST IN THE SHELL",
+    "src": "images/GHOST IN THE SHELL/草薙素子.png",
+    "hasDescription": true,
+    "title": "草薙素子",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "Metroid",
@@ -664,6 +688,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "名探偵コナン",
+    "src": "images/名探偵コナン/世良真純.png",
+    "hasDescription": true,
+    "title": "世良真純",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "呪術廻戦",
     "src": "images/呪術廻戦/三輪霞.png",
     "hasDescription": true,
@@ -726,6 +758,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "フカ",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "崩壊3rd",
+    "src": "images/崩壊3rd/ヴィルヴィ.png",
+    "hasDescription": true,
+    "title": "ヴィルヴィ",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "崩壊：スターレイル",
