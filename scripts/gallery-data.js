@@ -16,6 +16,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "Bayonetta",
+    "src": "images/Bayonetta/Viola.png",
+    "hasDescription": true,
+    "title": "Viola",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "BLACK LAGOON",
     "src": "images/BLACK LAGOON/Balalaika.png",
     "hasDescription": true,
@@ -36,6 +44,30 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/BLACK LAGOON/Shenhua.png",
     "hasDescription": true,
     "title": "Shenhua",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "BLEACH",
+    "src": "images/BLEACH/ネリエル・トゥ・オーデルシュヴァンク.png",
+    "hasDescription": true,
+    "title": "ネリエル・トゥ・オーデルシュヴァンク",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "BLEACH",
+    "src": "images/BLEACH/バンビエッタ・バスターバイン.png",
+    "hasDescription": true,
+    "title": "バンビエッタ・バスターバイン",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "BLEACH",
+    "src": "images/BLEACH/井上織姫.png",
+    "hasDescription": true,
+    "title": "井上織姫",
     "width": 942,
     "height": 1670
   },
@@ -104,6 +136,22 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "Devil May Cry",
+    "src": "images/Devil May Cry/Lady.png",
+    "hasDescription": true,
+    "title": "Lady",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "FAIRY TAIL",
+    "src": "images/FAIRY TAIL/ウルティア・ミルコビッチ.png",
+    "hasDescription": true,
+    "title": "ウルティア・ミルコビッチ",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "Fate 系列",
     "src": "images/Fate 系列/イリヤスフィール・フォン・アインツベルン.png",
     "hasDescription": true,
@@ -161,6 +209,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Jessie Rasberry.png",
+    "hasDescription": true,
+    "title": "Jessie Rasberry",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "FINAL FANTASY",
     "src": "images/FINAL FANTASY/Paine.png",
     "hasDescription": true,
     "title": "Paine",
@@ -181,6 +237,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "日向ハナビ",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "NieR",
+    "src": "images/NieR/2B.png",
+    "hasDescription": true,
+    "title": "2B",
+    "width": 942,
     "height": 1670
   },
   {
@@ -209,9 +273,25 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Reiju Vinsmoke.png",
+    "hasDescription": true,
+    "title": "Reiju Vinsmoke",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "ONE PIECE",
     "src": "images/ONE PIECE/Shirahoshi.png",
     "hasDescription": true,
     "title": "Shirahoshi",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Persona",
+    "src": "images/Persona/アイギス.png",
+    "hasDescription": true,
+    "title": "アイギス",
     "width": 942,
     "height": 1670
   },
@@ -222,6 +302,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "佐倉双葉",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "Persona",
+    "src": "images/Persona/桐条美鶴.png",
+    "hasDescription": true,
+    "title": "桐条美鶴",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "Persona",
@@ -241,6 +329,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Resident Evil",
+    "src": "images/Resident Evil/Claire Redfield.png",
+    "hasDescription": true,
+    "title": "Claire Redfield",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Resident Evil",
     "src": "images/Resident Evil/Lady Cassandra Dimitrescu.png",
     "hasDescription": true,
     "title": "Lady Cassandra Dimitrescu",
@@ -256,12 +352,36 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "SPY×FAMILY",
+    "src": "images/SPY×FAMILY/ベッキー・ブラックベル-02.png",
+    "hasDescription": true,
+    "title": "ベッキー・ブラックベル-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "SPY×FAMILY",
+    "src": "images/SPY×FAMILY/ベッキー・ブラックベル.png",
+    "hasDescription": true,
+    "title": "ベッキー・ブラックベル",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "The Witcher",
     "src": "images/The Witcher/Triss Merigold.png",
     "hasDescription": true,
     "title": "Triss Merigold",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "Tomb Raider",
+    "src": "images/Tomb Raider/Jacqueline Natla.png",
+    "hasDescription": true,
+    "title": "Jacqueline Natla",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "うる星やつら",
@@ -385,6 +505,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "チェンソーマン",
+    "src": "images/チェンソーマン/パワー.png",
+    "hasDescription": true,
+    "title": "パワー",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "チェンソーマン",
     "src": "images/チェンソーマン/姫野.png",
     "hasDescription": true,
     "title": "姫野",
@@ -441,6 +569,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Noir.png",
+    "hasDescription": true,
+    "title": "Noir",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Rosanna.png",
     "hasDescription": true,
     "title": "Rosanna",
@@ -484,6 +620,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/原神 Genshin Impact/甘雨.png",
     "hasDescription": true,
     "title": "甘雨",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/申鶴.png",
+    "hasDescription": true,
+    "title": "申鶴",
     "width": 942,
     "height": 1670
   },
@@ -665,6 +809,22 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "拳皇",
+    "src": "images/拳皇/Dolores.png",
+    "hasDescription": true,
+    "title": "Dolores",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "拳皇",
+    "src": "images/拳皇/Isla.png",
+    "hasDescription": true,
+    "title": "Isla",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "拳皇",
     "src": "images/拳皇/Sylvie Paula Paula.png",
     "hasDescription": true,
     "title": "Sylvie Paula Paula",
@@ -704,6 +864,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "犬夜叉",
+    "src": "images/犬夜叉/桔梗.png",
+    "hasDescription": true,
+    "title": "桔梗",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "生死格鬥",
     "src": "images/生死格鬥/マリー・ローズ.png",
     "hasDescription": true,
@@ -726,6 +894,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Mileena",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "真人快打",
+    "src": "images/真人快打/Tanya.png",
+    "hasDescription": true,
+    "title": "Tanya",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "美少女戦士セーラームーン",
@@ -820,6 +996,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/鐵拳/風間準.png",
     "hasDescription": true,
     "title": "風間準",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "鐵拳",
+    "src": "images/鐵拳/風間飛鳥.png",
+    "hasDescription": true,
+    "title": "風間飛鳥",
     "width": 942,
     "height": 1670
   },
