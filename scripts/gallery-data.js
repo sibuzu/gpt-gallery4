@@ -289,6 +289,22 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FAIRY TAIL",
+    "src": "images/FAIRY TAIL/ブランディッシュ・μ.png",
+    "hasDescription": true,
+    "title": "ブランディッシュ・μ",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "FAIRY TAIL",
+    "src": "images/FAIRY TAIL/ルーシィ・ハートフィリア.png",
+    "hasDescription": true,
+    "title": "ルーシィ・ハートフィリア",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "FAIRY TAIL",
     "src": "images/FAIRY TAIL/レビィ・マクガーデン.png",
     "hasDescription": true,
     "title": "レビィ・マクガーデン",
@@ -372,6 +388,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Fate 系列/メドゥーサ.png",
     "hasDescription": true,
     "title": "メドゥーサ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/メリュジーヌ.png",
+    "hasDescription": true,
+    "title": "メリュジーヌ",
     "width": 941,
     "height": 1672
   },
@@ -505,6 +529,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Terra Branford.png",
+    "hasDescription": true,
+    "title": "Terra Branford",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "FINAL FANTASY",
     "src": "images/FINAL FANTASY/Vanille.png",
     "hasDescription": true,
     "title": "Vanille",
@@ -589,6 +621,38 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "日向ヒナタ",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/綱手-02.png",
+    "hasDescription": true,
+    "title": "綱手-02",
+    "width": 942,
+    "height": 1669
+  },
+  {
+    "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/綱手-03.png",
+    "hasDescription": true,
+    "title": "綱手-03",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/綱手-04.png",
+    "hasDescription": true,
+    "title": "綱手-04",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/綱手.png",
+    "hasDescription": true,
+    "title": "綱手",
+    "width": 942,
     "height": 1670
   },
   {
@@ -801,6 +865,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Re:ゼロから始める異世界生活",
+    "src": "images/Re:ゼロから始める異世界生活/Elsa Granhiert.png",
+    "hasDescription": true,
+    "title": "Elsa Granhiert",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Re:ゼロから始める異世界生活",
     "src": "images/Re:ゼロから始める異世界生活/Emilia.png",
     "hasDescription": true,
     "title": "Emilia",
@@ -837,6 +909,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "Claire Redfield",
     "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Resident Evil",
+    "src": "images/Resident Evil/Helena Harper.png",
+    "hasDescription": true,
+    "title": "Helena Harper",
+    "width": 941,
     "height": 1670
   },
   {
@@ -1096,6 +1176,22 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "コードギアス",
+    "src": "images/コードギアス/Shirley Fenette-02.png",
+    "hasDescription": true,
+    "title": "Shirley Fenette-02",
+    "width": 942,
+    "height": 1669
+  },
+  {
+    "category": "コードギアス",
+    "src": "images/コードギアス/Shirley Fenette.png",
+    "hasDescription": true,
+    "title": "Shirley Fenette",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "シティーハンター",
     "src": "images/シティーハンター/槇村香.png",
     "hasDescription": true,
@@ -1305,6 +1401,22 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Anis-02.png",
+    "hasDescription": true,
+    "title": "Anis-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Anis.png",
+    "hasDescription": true,
+    "title": "Anis",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Cinderella.png",
     "hasDescription": true,
     "title": "Cinderella",
@@ -1377,11 +1489,27 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Noise.png",
+    "hasDescription": true,
+    "title": "Noise",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Privaty.png",
     "hasDescription": true,
     "title": "Privaty",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Rapi.png",
+    "hasDescription": true,
+    "title": "Rapi",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "勝利の女神：NIKKE",
@@ -1420,6 +1548,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/原神 Genshin Impact/アルレッキーノ.png",
     "hasDescription": true,
     "title": "アルレッキーノ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/キャンディス.png",
+    "hasDescription": true,
+    "title": "キャンディス",
     "width": 941,
     "height": 1672
   },
@@ -1505,6 +1641,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/北斗.png",
+    "hasDescription": true,
+    "title": "北斗",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "原神 Genshin Impact",
     "src": "images/原神 Genshin Impact/千織.png",
     "hasDescription": true,
     "title": "千織",
@@ -1565,6 +1709,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "香菱",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "名探偵コナン",
+    "src": "images/名探偵コナン/Curaçao.png",
+    "hasDescription": true,
+    "title": "Curaçao",
+    "width": 942,
     "height": 1670
   },
   {
@@ -1630,6 +1782,22 @@ window.__GALLERY_IMAGES__ = [
     "title": "来栖華",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "呪術廻戦",
+    "src": "images/呪術廻戦/禪院真依-02.png",
+    "hasDescription": true,
+    "title": "禪院真依-02",
+    "width": 942,
+    "height": 1669
+  },
+  {
+    "category": "呪術廻戦",
+    "src": "images/呪術廻戦/禪院真依.png",
+    "hasDescription": true,
+    "title": "禪院真依",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "呪術廻戦",
@@ -1774,6 +1942,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "符玄",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/花火.png",
+    "hasDescription": true,
+    "title": "花火",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "崩壊：スターレイル",
@@ -1961,6 +2137,30 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "拳皇",
+    "src": "images/拳皇/Kula Diamond.png",
+    "hasDescription": true,
+    "title": "Kula Diamond",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "拳皇",
+    "src": "images/拳皇/Leona Heidern-02.png",
+    "hasDescription": true,
+    "title": "Leona Heidern-02",
+    "width": 942,
+    "height": 1669
+  },
+  {
+    "category": "拳皇",
+    "src": "images/拳皇/Leona Heidern.png",
+    "hasDescription": true,
+    "title": "Leona Heidern",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "拳皇",
     "src": "images/拳皇/Shermie.png",
     "hasDescription": true,
     "title": "Shermie",
@@ -2129,6 +2329,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "生死格鬥",
+    "src": "images/生死格鬥/Phase 4.png",
+    "hasDescription": true,
+    "title": "Phase 4",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "生死格鬥",
     "src": "images/生死格鬥/こころ.png",
     "hasDescription": true,
     "title": "こころ",
@@ -2174,6 +2382,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "紅葉",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "真人快打",
+    "src": "images/真人快打/Cassie Cage.png",
+    "hasDescription": true,
+    "title": "Cassie Cage",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "真人快打",
@@ -2286,6 +2502,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "愛野美奈子",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "美少女戦士セーラームーン",
+    "src": "images/美少女戦士セーラームーン/月野うさぎ.png",
+    "hasDescription": true,
+    "title": "月野うさぎ",
+    "width": 942,
+    "height": 1669
   },
   {
     "category": "美少女戦士セーラームーン",
@@ -2425,6 +2649,22 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "鐵拳",
+    "src": "images/鐵拳/Lucky Chloe-02.png",
+    "hasDescription": true,
+    "title": "Lucky Chloe-02",
+    "width": 942,
+    "height": 1669
+  },
+  {
+    "category": "鐵拳",
+    "src": "images/鐵拳/Lucky Chloe.png",
+    "hasDescription": true,
+    "title": "Lucky Chloe",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "鐵拳",
     "src": "images/鐵拳/Master Raven.png",
     "hasDescription": true,
     "title": "Master Raven",
@@ -2518,5 +2758,21 @@ window.__GALLERY_IMAGES__ = [
     "title": "須磨",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "魔法少女まどか☆マギカ",
+    "src": "images/魔法少女まどか☆マギカ/佐倉杏子.png",
+    "hasDescription": true,
+    "title": "佐倉杏子",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "魔法少女まどか☆マギカ",
+    "src": "images/魔法少女まどか☆マギカ/暁美ほむら.png",
+    "hasDescription": true,
+    "title": "暁美ほむら",
+    "width": 941,
+    "height": 1672
   }
 ];
