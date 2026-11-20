@@ -1793,14 +1793,6 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊：スターレイル",
-    "src": "images/崩壊：スターレイル/ゼーレ-02.png",
-    "hasDescription": true,
-    "title": "ゼーレ-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "崩壊：スターレイル",
     "src": "images/崩壊：スターレイル/ゼーレ.png",
     "hasDescription": true,
     "title": "ゼーレ",
