@@ -49,6 +49,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLEACH",
+    "src": "images/BLEACH/ティア・ハリベル.png",
+    "hasDescription": true,
+    "title": "ティア・ハリベル",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "BLEACH",
     "src": "images/BLEACH/ネリエル・トゥ・オーデルシュヴァンク.png",
     "hasDescription": true,
     "title": "ネリエル・トゥ・オーデルシュヴァンク",
@@ -201,9 +209,33 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Fate 系列",
+    "src": "images/Fate 系列/アビゲイル・ウィリアムズ.png",
+    "hasDescription": true,
+    "title": "アビゲイル・ウィリアムズ",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/アルトリア・ペンドラゴン.png",
+    "hasDescription": true,
+    "title": "アルトリア・ペンドラゴン",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Fate 系列",
     "src": "images/Fate 系列/イリヤスフィール・フォン・アインツベルン.png",
     "hasDescription": true,
     "title": "イリヤスフィール・フォン・アインツベルン",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/エレシュキガル.png",
+    "hasDescription": true,
+    "title": "エレシュキガル",
     "width": 941,
     "height": 1672
   },
@@ -289,6 +321,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Fran.png",
+    "hasDescription": true,
+    "title": "Fran",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "FINAL FANTASY",
     "src": "images/FINAL FANTASY/Freya Crescent.png",
     "hasDescription": true,
     "title": "Freya Crescent",
@@ -313,11 +353,27 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Rikku.png",
+    "hasDescription": true,
+    "title": "Rikku",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "FINAL FANTASY",
     "src": "images/FINAL FANTASY/Serah Farron.png",
     "hasDescription": true,
     "title": "Serah Farron",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Yuffie Kisaragi.png",
+    "hasDescription": true,
+    "title": "Yuffie Kisaragi",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "GHOST IN THE SHELL",
@@ -408,6 +464,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "NieR",
+    "src": "images/NieR/Yonah.png",
+    "hasDescription": true,
+    "title": "Yonah",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "ONE PIECE",
     "src": "images/ONE PIECE/Charlotte Pudding.png",
     "hasDescription": true,
@@ -422,6 +486,22 @@ window.__GALLERY_IMAGES__ = [
     "title": "Charlotte Smoothie",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Monet.png",
+    "hasDescription": true,
+    "title": "Monet",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Nefertari Vivi.png",
+    "hasDescription": true,
+    "title": "Nefertari Vivi",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "ONE PIECE",
@@ -454,6 +534,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "佐倉双葉",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "Persona",
+    "src": "images/Persona/岳羽ゆかり.png",
+    "hasDescription": true,
+    "title": "岳羽ゆかり",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "Persona",
@@ -545,6 +633,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "The Witcher",
+    "src": "images/The Witcher/Fringilla Vigo.png",
+    "hasDescription": true,
+    "title": "Fringilla Vigo",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "The Witcher",
     "src": "images/The Witcher/Triss Merigold.png",
     "hasDescription": true,
     "title": "Triss Merigold",
@@ -556,6 +652,22 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Tomb Raider/Jacqueline Natla.png",
     "hasDescription": true,
     "title": "Jacqueline Natla",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Tomb Raider",
+    "src": "images/Tomb Raider/Lara Croft-02.png",
+    "hasDescription": true,
+    "title": "Lara Croft-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Tomb Raider",
+    "src": "images/Tomb Raider/Lara Croft.png",
+    "hasDescription": true,
+    "title": "Lara Croft",
     "width": 941,
     "height": 1672
   },
@@ -645,6 +757,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "Ophelia",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "クレイモア",
+    "src": "images/クレイモア/Teresa.png",
+    "hasDescription": true,
+    "title": "Teresa",
+    "width": 942,
     "height": 1670
   },
   {
@@ -752,6 +872,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "亂馬½",
+    "src": "images/亂馬½/早乙女らんま（女）.png",
+    "hasDescription": true,
+    "title": "早乙女らんま（女）",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "僕のヒーローアカデミア",
     "src": "images/僕のヒーローアカデミア/スターアンドストライプ.png",
     "hasDescription": true,
@@ -761,10 +889,26 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "僕のヒーローアカデミア",
+    "src": "images/僕のヒーローアカデミア/マウントレディ.png",
+    "hasDescription": true,
+    "title": "マウントレディ",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "僕のヒーローアカデミア",
     "src": "images/僕のヒーローアカデミア/芦戸三奈.png",
     "hasDescription": true,
     "title": "芦戸三奈",
     "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "劍魂",
+    "src": "images/劍魂/Taki.png",
+    "hasDescription": true,
+    "title": "Taki",
+    "width": 941,
     "height": 1670
   },
   {
@@ -809,11 +953,27 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Neon.png",
+    "hasDescription": true,
+    "title": "Neon",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Noir.png",
     "hasDescription": true,
     "title": "Noir",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Privaty.png",
+    "hasDescription": true,
+    "title": "Privaty",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "勝利の女神：NIKKE",
@@ -961,6 +1121,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "呪術廻戦",
+    "src": "images/呪術廻戦/星綺羅羅.png",
+    "hasDescription": true,
+    "title": "星綺羅羅",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "呪術廻戦",
     "src": "images/呪術廻戦/来栖華.png",
     "hasDescription": true,
     "title": "来栖華",
@@ -1006,6 +1174,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "ヴィルヴィ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "崩壊3rd",
+    "src": "images/崩壊3rd/無量塔姫子.png",
+    "hasDescription": true,
+    "title": "無量塔姫子",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "崩壊：スターレイル",
@@ -1145,6 +1321,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "拳皇",
+    "src": "images/拳皇/Elisabeth Blanctorche.png",
+    "hasDescription": true,
+    "title": "Elisabeth Blanctorche",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "拳皇",
     "src": "images/拳皇/Isla.png",
     "hasDescription": true,
     "title": "Isla",
@@ -1201,6 +1385,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "灼眼のシャナ",
+    "src": "images/灼眼のシャナ/Margery Daw.png",
+    "hasDescription": true,
+    "title": "Margery Daw",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "灼眼のシャナ",
     "src": "images/灼眼のシャナ/Wilhelmina Carmel.png",
     "hasDescription": true,
     "title": "Wilhelmina Carmel",
@@ -1238,6 +1430,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Mila",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "生死格鬥",
+    "src": "images/生死格鬥/こころ.png",
+    "hasDescription": true,
+    "title": "こころ",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "生死格鬥",
@@ -1356,6 +1556,22 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/進撃の巨人/アニ・レオンハート.png",
     "hasDescription": true,
     "title": "アニ・レオンハート",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "進撃の巨人",
+    "src": "images/進撃の巨人/ヒストリア・レイス.png",
+    "hasDescription": true,
+    "title": "ヒストリア・レイス",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "進撃の巨人",
+    "src": "images/進撃の巨人/ペトラ・ラル.png",
+    "hasDescription": true,
+    "title": "ペトラ・ラル",
     "width": 941,
     "height": 1672
   },
