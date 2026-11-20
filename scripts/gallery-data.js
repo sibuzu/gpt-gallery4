@@ -1345,19 +1345,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
-    "src": "images/勝利の女神：NIKKE/Anis-02.png",
-    "hasDescription": true,
-    "title": "Anis-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Anis.png",
     "hasDescription": true,
     "title": "Anis",
-    "width": 942,
-    "height": 1670
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "勝利の女神：NIKKE",
