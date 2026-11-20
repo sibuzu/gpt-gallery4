@@ -225,6 +225,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Blue Archive",
+    "src": "images/Blue Archive/空崎ヒナ.png",
+    "hasDescription": true,
+    "title": "空崎ヒナ",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Blue Archive",
     "src": "images/Blue Archive/角楯カリン.png",
     "hasDescription": true,
     "title": "角楯カリン",
@@ -760,6 +768,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Yamato.png",
+    "hasDescription": true,
+    "title": "Yamato",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "Persona",
     "src": "images/Persona/アイギス.png",
     "hasDescription": true,
@@ -852,6 +868,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Re:ゼロから始める異世界生活/Priscilla Barielle.png",
     "hasDescription": true,
     "title": "Priscilla Barielle",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Re:ゼロから始める異世界生活",
+    "src": "images/Re:ゼロから始める異世界生活/Rem.png",
+    "hasDescription": true,
+    "title": "Rem",
     "width": 942,
     "height": 1670
   },
@@ -1084,6 +1108,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/キルラキル/満艦飾マコ.png",
     "hasDescription": true,
     "title": "満艦飾マコ",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "キルラキル",
+    "src": "images/キルラキル/纏流子.png",
+    "hasDescription": true,
+    "title": "纏流子",
     "width": 941,
     "height": 1670
   },
@@ -1745,6 +1777,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊3rd",
+    "src": "images/崩壊3rd/キアナ・カスラナ.png",
+    "hasDescription": true,
+    "title": "キアナ・カスラナ",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "崩壊3rd",
     "src": "images/崩壊3rd/テレサ・アポカリプス.png",
     "hasDescription": true,
     "title": "テレサ・アポカリプス",
@@ -1929,6 +1969,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "快打旋風",
+    "src": "images/快打旋風/Ibuki.png",
+    "hasDescription": true,
+    "title": "Ibuki",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "快打旋風",
     "src": "images/快打旋風/Kimberly Jackson.png",
     "hasDescription": true,
     "title": "Kimberly Jackson",
@@ -2006,6 +2054,30 @@ window.__GALLERY_IMAGES__ = [
     "title": "神月かりん",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "拳皇",
+    "src": "images/拳皇/Alice Garnet Nakata-02.png",
+    "hasDescription": true,
+    "title": "Alice Garnet Nakata-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "拳皇",
+    "src": "images/拳皇/Alice Garnet Nakata-03.png",
+    "hasDescription": true,
+    "title": "Alice Garnet Nakata-03",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "拳皇",
+    "src": "images/拳皇/Alice Garnet Nakata.png",
+    "hasDescription": true,
+    "title": "Alice Garnet Nakata",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "拳皇",
@@ -2121,6 +2193,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "拳皇",
+    "src": "images/拳皇/四条雛子.png",
+    "hasDescription": true,
+    "title": "四条雛子",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "拳皇",
     "src": "images/拳皇/麻宮アテナ.png",
     "hasDescription": true,
     "title": "麻宮アテナ",
@@ -2197,6 +2277,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "Wilhelmina Carmel",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "無職転生",
+    "src": "images/無職転生/Roxy Migurdia.png",
+    "hasDescription": true,
+    "title": "Roxy Migurdia",
+    "width": 942,
     "height": 1670
   },
   {
@@ -2286,6 +2374,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "マリー・ローズ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "生死格鬥",
+    "src": "images/生死格鬥/女天狗.png",
+    "hasDescription": true,
+    "title": "女天狗",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "生死格鬥",
@@ -2425,6 +2521,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "美少女戦士セーラームーン",
+    "src": "images/美少女戦士セーラームーン/木野まこと.png",
+    "hasDescription": true,
+    "title": "木野まこと",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "美少女戦士セーラームーン",
     "src": "images/美少女戦士セーラームーン/水野亜美.png",
     "hasDescription": true,
     "title": "水野亜美",
@@ -2521,6 +2625,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "鐵拳",
+    "src": "images/鐵拳/Christie Monteiro.png",
+    "hasDescription": true,
+    "title": "Christie Monteiro",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "鐵拳",
     "src": "images/鐵拳/Josie Rizal.png",
     "hasDescription": true,
     "title": "Josie Rizal",
@@ -2609,6 +2721,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "鬼滅の刃",
+    "src": "images/鬼滅の刃/まきを.png",
+    "hasDescription": true,
+    "title": "まきを",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "鬼滅の刃",
     "src": "images/鬼滅の刃/堕姫.png",
     "hasDescription": true,
     "title": "堕姫",
@@ -2620,6 +2740,22 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/鬼滅の刃/珠世.png",
     "hasDescription": true,
     "title": "珠世",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "鬼滅の刃",
+    "src": "images/鬼滅の刃/甘露寺蜜璃-02.png",
+    "hasDescription": true,
+    "title": "甘露寺蜜璃-02",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "鬼滅の刃",
+    "src": "images/鬼滅の刃/甘露寺蜜璃.png",
+    "hasDescription": true,
+    "title": "甘露寺蜜璃",
     "width": 941,
     "height": 1672
   },
@@ -2660,6 +2796,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/魔法少女まどか☆マギカ/佐倉杏子.png",
     "hasDescription": true,
     "title": "佐倉杏子",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "魔法少女まどか☆マギカ",
+    "src": "images/魔法少女まどか☆マギカ/巴マミ.png",
+    "hasDescription": true,
+    "title": "巴マミ",
     "width": 942,
     "height": 1670
   },
