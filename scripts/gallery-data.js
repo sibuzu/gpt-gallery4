@@ -97,6 +97,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Fate 系列",
+    "src": "images/Fate 系列/ジャンヌ・ダルク.png",
+    "hasDescription": true,
+    "title": "ジャンヌ・ダルク",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Fate 系列",
     "src": "images/Fate 系列/ジャンヌ・ダルク〔オルタ〕.png",
     "hasDescription": true,
     "title": "ジャンヌ・ダルク〔オルタ〕",
@@ -192,6 +200,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "Persona",
+    "src": "images/Persona/高巻杏.png",
+    "hasDescription": true,
+    "title": "高巻杏",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "Resident Evil",
     "src": "images/Resident Evil/Lady Cassandra Dimitrescu.png",
     "hasDescription": true,
@@ -256,6 +272,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "チェンソーマン",
+    "src": "images/チェンソーマン/東山コベニ.png",
+    "hasDescription": true,
+    "title": "東山コベニ",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "劍魂",
     "src": "images/劍魂/Xianghua Chai.png",
     "hasDescription": true,
@@ -278,6 +302,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Marian",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Modernia.png",
+    "hasDescription": true,
+    "title": "Modernia",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "勝利の女神：NIKKE",
