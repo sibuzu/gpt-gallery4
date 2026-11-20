@@ -41,6 +41,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLEACH",
+    "src": "images/BLEACH/志波空鶴.png",
+    "hasDescription": true,
+    "title": "志波空鶴",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "BLEACH",
     "src": "images/BLEACH/涅ネム.png",
     "hasDescription": true,
     "title": "涅ネム",
@@ -126,6 +134,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "遠坂凛",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Benedikta Harman.png",
+    "hasDescription": true,
+    "title": "Benedikta Harman",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "FINAL FANTASY",
@@ -278,6 +294,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Cornelia li Britannia",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "ソードアート・オンライン",
+    "src": "images/ソードアート・オンライン/Leafa.png",
+    "hasDescription": true,
+    "title": "Leafa",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "ダンダダン",

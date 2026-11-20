@@ -1,12 +1,12 @@
 {
-  "total_categorized": 89,
+  "total_categorized": 92,
   "category_counts": {
     "Bayonetta": 2,
     "BLACK LAGOON": 3,
-    "BLEACH": 3,
+    "BLEACH": 4,
     "Blue Archive": 3,
     "Fate 系列": 5,
-    "FINAL FANTASY": 2,
+    "FINAL FANTASY": 3,
     "Metroid": 1,
     "NARUTO／BORUTO": 1,
     "NieR": 1,
@@ -19,6 +19,7 @@
     "この素晴らしい世界に祝福を！": 1,
     "クレイモア": 1,
     "コードギアス": 1,
+    "ソードアート・オンライン": 1,
     "ダンダダン": 1,
     "チェンソーマン": 4,
     "劍魂": 1,
@@ -38,5 +39,5 @@
     "鐵拳": 7,
     "鬼滅の刃": 1
   },
-  "with_descriptions": 89
+  "with_descriptions": 92
 }
