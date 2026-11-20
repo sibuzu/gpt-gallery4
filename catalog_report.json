@@ -1,7 +1,10 @@
 {
-  "total_categorized": 5,
+  "total_categorized": 9,
   "category_counts": {
-    "快打旋風": 5
+    "劍魂": 1,
+    "崩壊3rd": 1,
+    "快打旋風": 5,
+    "鐵拳": 2
   },
-  "with_descriptions": 5
+  "with_descriptions": 9
 }
