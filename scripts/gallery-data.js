@@ -185,6 +185,22 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Fate 系列",
+    "src": "images/Fate 系列/玉藻の前-02.png",
+    "hasDescription": true,
+    "title": "玉藻の前-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/玉藻の前.png",
+    "hasDescription": true,
+    "title": "玉藻の前",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Fate 系列",
     "src": "images/Fate 系列/遠坂凛.png",
     "hasDescription": true,
     "title": "遠坂凛",
@@ -353,19 +369,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "SPY×FAMILY",
-    "src": "images/SPY×FAMILY/ベッキー・ブラックベル-02.png",
-    "hasDescription": true,
-    "title": "ベッキー・ブラックベル-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "SPY×FAMILY",
     "src": "images/SPY×FAMILY/ベッキー・ブラックベル.png",
     "hasDescription": true,
     "title": "ベッキー・ブラックベル",
-    "width": 942,
-    "height": 1670
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "The Witcher",
@@ -630,14 +638,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "申鶴",
     "width": 942,
     "height": 1670
-  },
-  {
-    "category": "原神 Genshin Impact",
-    "src": "images/原神 Genshin Impact/胡桃-02.png",
-    "hasDescription": true,
-    "title": "胡桃-02",
-    "width": 941,
-    "height": 1672
   },
   {
     "category": "原神 Genshin Impact",
