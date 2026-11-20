@@ -145,6 +145,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Blue Archive",
+    "src": "images/Blue Archive/一之瀬アスナ.png",
+    "hasDescription": true,
+    "title": "一之瀬アスナ",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Blue Archive",
     "src": "images/Blue Archive/十六夜ノノミ.png",
     "hasDescription": true,
     "title": "十六夜ノノミ",
@@ -196,6 +204,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Devil May Cry/Lucia.png",
     "hasDescription": true,
     "title": "Lucia",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "FAIRY TAIL",
+    "src": "images/FAIRY TAIL/ウェンディ・マーベル.png",
+    "hasDescription": true,
+    "title": "ウェンディ・マーベル",
     "width": 942,
     "height": 1670
   },
@@ -277,6 +293,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "ネロ・クラウディウス",
     "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/メディア.png",
+    "hasDescription": true,
+    "title": "メディア",
+    "width": 941,
     "height": 1670
   },
   {
@@ -525,6 +549,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "Nefertari Vivi",
     "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Perona.png",
+    "hasDescription": true,
+    "title": "Perona",
+    "width": 941,
     "height": 1670
   },
   {
@@ -856,6 +888,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "ダンジョン飯",
+    "src": "images/ダンジョン飯/Falin Touden.png",
+    "hasDescription": true,
+    "title": "Falin Touden",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "ダンダダン",
     "src": "images/ダンダダン/ターボババア.png",
     "hasDescription": true,
@@ -889,6 +929,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "チェンソーマン",
+    "src": "images/チェンソーマン/ヨル.png",
+    "hasDescription": true,
+    "title": "ヨル",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "チェンソーマン",
     "src": "images/チェンソーマン/姫野.png",
     "hasDescription": true,
     "title": "姫野",
@@ -910,6 +958,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "飢餓の悪魔",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "亂馬½",
+    "src": "images/亂馬½/Shampoo.png",
+    "hasDescription": true,
+    "title": "Shampoo",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "亂馬½",
@@ -966,6 +1022,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Taki",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "劍魂",
+    "src": "images/劍魂/Tira.png",
+    "hasDescription": true,
+    "title": "Tira",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "劍魂",
@@ -1048,6 +1112,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Volume.png",
+    "hasDescription": true,
+    "title": "Volume",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "原神 Genshin Impact",
     "src": "images/原神 Genshin Impact/アルレッキーノ.png",
     "hasDescription": true,
@@ -1076,6 +1148,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/原神 Genshin Impact/リネット.png",
     "hasDescription": true,
     "title": "リネット",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/刻晴.png",
+    "hasDescription": true,
+    "title": "刻晴",
     "width": 942,
     "height": 1670
   },
@@ -1125,6 +1205,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "雲菫",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/雷電将軍.png",
+    "hasDescription": true,
+    "title": "雷電将軍",
+    "width": 942,
     "height": 1670
   },
   {
@@ -1369,6 +1457,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "快打旋風",
+    "src": "images/快打旋風/春麗.png",
+    "hasDescription": true,
+    "title": "春麗",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "快打旋風",
     "src": "images/快打旋風/神月かりん.png",
     "hasDescription": true,
     "title": "神月かりん",
@@ -1424,6 +1520,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "拳皇",
+    "src": "images/拳皇/麻宮アテナ.png",
+    "hasDescription": true,
+    "title": "麻宮アテナ",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "新世紀エヴァンゲリオン",
     "src": "images/新世紀エヴァンゲリオン/式波・アスカ・ラングレー.png",
     "hasDescription": true,
@@ -1473,6 +1577,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "犬夜叉",
+    "src": "images/犬夜叉/日暮かごめ.png",
+    "hasDescription": true,
+    "title": "日暮かごめ",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "犬夜叉",
     "src": "images/犬夜叉/桔梗.png",
     "hasDescription": true,
     "title": "桔梗",
@@ -1508,6 +1620,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/生死格鬥/こころ.png",
     "hasDescription": true,
     "title": "こころ",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "生死格鬥",
+    "src": "images/生死格鬥/ほのか.png",
+    "hasDescription": true,
+    "title": "ほのか",
     "width": 942,
     "height": 1670
   },
@@ -1577,6 +1697,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "真人快打",
+    "src": "images/真人快打/Nitara.png",
+    "hasDescription": true,
+    "title": "Nitara",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "真人快打",
     "src": "images/真人快打/Skarlet.png",
     "hasDescription": true,
     "title": "Skarlet",
@@ -1620,6 +1748,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/美少女戦士セーラームーン/水野亜美.png",
     "hasDescription": true,
     "title": "水野亜美",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "葬送のフリーレン",
+    "src": "images/葬送のフリーレン/Fern.png",
+    "hasDescription": true,
+    "title": "Fern",
     "width": 941,
     "height": 1670
   },
@@ -1705,6 +1841,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "鐵拳",
+    "src": "images/鐵拳/Ling Xiaoyu.png",
+    "hasDescription": true,
+    "title": "Ling Xiaoyu",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "鐵拳",
     "src": "images/鐵拳/Master Raven.png",
     "hasDescription": true,
     "title": "Master Raven",
@@ -1750,6 +1894,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "風間飛鳥",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "鬼滅の刃",
+    "src": "images/鬼滅の刃/胡蝶カナエ.png",
+    "hasDescription": true,
+    "title": "胡蝶カナエ",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "鬼滅の刃",
