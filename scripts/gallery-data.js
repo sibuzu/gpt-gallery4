@@ -32,6 +32,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "BLACK CAT",
+    "src": "images/BLACK CAT/Rinslet Walker.png",
+    "hasDescription": true,
+    "title": "Rinslet Walker",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "BLACK LAGOON",
     "src": "images/BLACK LAGOON/Balalaika.png",
     "hasDescription": true,
@@ -156,6 +164,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Blue Archive/十六夜ノノミ.png",
     "hasDescription": true,
     "title": "十六夜ノノミ",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Blue Archive",
+    "src": "images/Blue Archive/小鳥遊ホシノ.png",
+    "hasDescription": true,
+    "title": "小鳥遊ホシノ",
     "width": 942,
     "height": 1670
   },
@@ -289,6 +305,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Fate 系列",
+    "src": "images/Fate 系列/スカサハ.png",
+    "hasDescription": true,
+    "title": "スカサハ",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "Fate 系列",
     "src": "images/Fate 系列/ネロ・クラウディウス.png",
     "hasDescription": true,
     "title": "ネロ・クラウディウス",
@@ -377,11 +401,27 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Garnet Til Alexandros XVII.png",
+    "hasDescription": true,
+    "title": "Garnet Til Alexandros XVII",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "FINAL FANTASY",
     "src": "images/FINAL FANTASY/Jessie Rasberry.png",
     "hasDescription": true,
     "title": "Jessie Rasberry",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Lightning.png",
+    "hasDescription": true,
+    "title": "Lightning",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "FINAL FANTASY",
@@ -545,6 +585,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Black Maria.png",
+    "hasDescription": true,
+    "title": "Black Maria",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "ONE PIECE",
     "src": "images/ONE PIECE/Charlotte Pudding.png",
     "hasDescription": true,
     "title": "Charlotte Pudding",
@@ -556,6 +604,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/ONE PIECE/Charlotte Smoothie.png",
     "hasDescription": true,
     "title": "Charlotte Smoothie",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Jewelry Bonney.png",
+    "hasDescription": true,
+    "title": "Jewelry Bonney",
     "width": 941,
     "height": 1672
   },
@@ -574,6 +630,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Nefertari Vivi",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Nico Robin.png",
+    "hasDescription": true,
+    "title": "Nico Robin",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "ONE PIECE",
@@ -614,6 +678,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "アイギス",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "Persona",
+    "src": "images/Persona/久慈川りせ.png",
+    "hasDescription": true,
+    "title": "久慈川りせ",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "Persona",
@@ -713,6 +785,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Resident Evil",
+    "src": "images/Resident Evil/Rebecca Chambers.png",
+    "hasDescription": true,
+    "title": "Rebecca Chambers",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Resident Evil",
     "src": "images/Resident Evil/Sherry Birkin.png",
     "hasDescription": true,
     "title": "Sherry Birkin",
@@ -742,6 +822,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Fringilla Vigo",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "The Witcher",
+    "src": "images/The Witcher/Philippa Eilhart.png",
+    "hasDescription": true,
+    "title": "Philippa Eilhart",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "The Witcher",
@@ -785,6 +873,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "うる星やつら",
+    "src": "images/うる星やつら/おユキ.png",
+    "hasDescription": true,
+    "title": "おユキ",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "うる星やつら",
     "src": "images/うる星やつら/ラム.png",
     "hasDescription": true,
     "title": "ラム",
@@ -813,6 +909,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "藤波竜之介",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "この素晴らしい世界に祝福を！",
+    "src": "images/この素晴らしい世界に祝福を！/Aqua.png",
+    "hasDescription": true,
+    "title": "Aqua",
+    "width": 942,
     "height": 1670
   },
   {
@@ -1105,6 +1209,22 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/D.png",
+    "hasDescription": true,
+    "title": "D",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Dorothy.png",
+    "hasDescription": true,
+    "title": "Dorothy",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Emma.png",
     "hasDescription": true,
     "title": "Emma",
@@ -1198,6 +1318,22 @@ window.__GALLERY_IMAGES__ = [
     "title": "シトラリ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/ナヒーダ.png",
+    "hasDescription": true,
+    "title": "ナヒーダ",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/ナヴィア.png",
+    "hasDescription": true,
+    "title": "ナヴィア",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "原神 Genshin Impact",
@@ -1409,9 +1545,33 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊3rd",
+    "src": "images/崩壊3rd/八重桜.png",
+    "hasDescription": true,
+    "title": "八重桜",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "崩壊3rd",
     "src": "images/崩壊3rd/無量塔姫子.png",
     "hasDescription": true,
     "title": "無量塔姫子",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/ゼーレ-02.png",
+    "hasDescription": true,
+    "title": "ゼーレ-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/ゼーレ.png",
+    "hasDescription": true,
+    "title": "ゼーレ",
     "width": 941,
     "height": 1670
   },
@@ -1545,6 +1705,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "快打旋風",
+    "src": "images/快打旋風/Menat.png",
+    "hasDescription": true,
+    "title": "Menat",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "快打旋風",
     "src": "images/快打旋風/Rainbow Mika.png",
     "hasDescription": true,
     "title": "Rainbow Mika",
@@ -1585,6 +1753,22 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "拳皇",
+    "src": "images/拳皇/Blue Mary.png",
+    "hasDescription": true,
+    "title": "Blue Mary",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "拳皇",
+    "src": "images/拳皇/Chizuru Kagura.png",
+    "hasDescription": true,
+    "title": "Chizuru Kagura",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "拳皇",
     "src": "images/拳皇/Dolores.png",
     "hasDescription": true,
     "title": "Dolores",
@@ -1609,6 +1793,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "拳皇",
+    "src": "images/拳皇/Shermie.png",
+    "hasDescription": true,
+    "title": "Shermie",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "拳皇",
     "src": "images/拳皇/Sylvie Paula Paula.png",
     "hasDescription": true,
     "title": "Sylvie Paula Paula",
@@ -1622,6 +1814,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Whip",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "拳皇",
+    "src": "images/拳皇/Ángel.png",
+    "hasDescription": true,
+    "title": "Ángel",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "拳皇",
@@ -1664,12 +1864,28 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "新世紀エヴァンゲリオン",
+    "src": "images/新世紀エヴァンゲリオン/葛城ミサト.png",
+    "hasDescription": true,
+    "title": "葛城ミサト",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "機動戦士ガンダムSEED",
     "src": "images/機動戦士ガンダムSEED/Cagalli Yula Athha.png",
     "hasDescription": true,
     "title": "Cagalli Yula Athha",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "機動戦士ガンダムSEED",
+    "src": "images/機動戦士ガンダムSEED/Lacus Clyne.png",
+    "hasDescription": true,
+    "title": "Lacus Clyne",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "機動戦士ガンダムSEED",
@@ -1873,6 +2089,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "美少女戦士セーラームーン",
+    "src": "images/美少女戦士セーラームーン/愛野美奈子.png",
+    "hasDescription": true,
+    "title": "愛野美奈子",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "美少女戦士セーラームーン",
     "src": "images/美少女戦士セーラームーン/水野亜美.png",
     "hasDescription": true,
     "title": "水野亜美",
@@ -1894,6 +2118,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Frieren",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "葬送のフリーレン",
+    "src": "images/葬送のフリーレン/Kanne.png",
+    "hasDescription": true,
+    "title": "Kanne",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "葬送のフリーレン",
@@ -2030,6 +2262,22 @@ window.__GALLERY_IMAGES__ = [
     "title": "風間飛鳥",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "鬼滅の刃",
+    "src": "images/鬼滅の刃/堕姫.png",
+    "hasDescription": true,
+    "title": "堕姫",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "鬼滅の刃",
+    "src": "images/鬼滅の刃/珠世.png",
+    "hasDescription": true,
+    "title": "珠世",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "鬼滅の刃",
