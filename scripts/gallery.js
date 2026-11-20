@@ -56,7 +56,7 @@ let touchStartX = 0;
 let touchStartY = 0;
 let descriptionDialog = null;
 let currentGroups = [];
-const expandedGroups = new Set();
+const expandedGroups = new Set(categories.filter((category) => category !== "全部"));
 
 const totals = images.reduce((map, image) => {
   map[image.category] = (map[image.category] || 0) + 1;

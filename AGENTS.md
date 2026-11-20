@@ -41,4 +41,5 @@ wn report --project PROJECT_ID --title '專案狀態通報' \
 - 已有圖片使用角色同名 PNG；匯入分享對話時依使用者本次要求略過指定圖片，不覆寫 PROMPT。
 - 新增角色 PROMPT 時逐作品完成並落盤，不等全部作品整理完才一次寫出；完成後驗證角色名單完整性及 Template 一致性。
 - 網站參考 Gallery 3，直接在 repository 根目錄建置；不產生 `dist/`。Netlify 使用 GitHub `main` 自動發佈，Base directory 留空、Build command 為 `python3 build_gallery.py`、Publish directory 為 `.`，目標網域為 `gallery4.sibuzu.com`。
+- 網頁每次開啟或重新整理時預設展開所有分類；保留手動收合與再次展開功能。
 - Python 使用 `uv` 管理的 Python 3.12 `.venv`，已有環境先沿用，不提交 `.venv`、`.netlify`、憑證或本機暫存。
