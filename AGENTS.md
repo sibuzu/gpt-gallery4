@@ -39,6 +39,7 @@ wn report --project PROJECT_ID --title '專案狀態通報' \
 - 本目錄為獨立 Git repository，遠端為 `sibuzu/gpt-gallery4`；修改與提交只處理本 repository。
 - 維護 PROMPT 前先讀 `characters.md` 與 `todo/todo.md`。每個角色使用 `images/<作品>/<角色>.md`，只替換 Template 的大括號佔位內容，固定文字不得更動。已存在的 PROMPT 與圖片只在使用者指定時覆寫。
 - 已有圖片使用角色同名 PNG；匯入分享對話時，未明確指定跳過就全部加入，僅略過使用者本次指定的圖片，不修改或覆寫 PROMPT。
+- 使用者明確要求同步既有圖片的 PROMPT 時，以該 PNG 的來源 file ID 與檔案雜湊配對原分享對話，將完整原始使用者 PROMPT 保存至同名 `.md`；僅更新指定圖片的對應檔案，其餘角色 PROMPT 與圖片保持原樣。
 - 新增角色 PROMPT 時逐作品完成並落盤，不等全部作品整理完才一次寫出；完成後驗證角色名單完整性及 Template 一致性。
 - 網站參考 Gallery 3，直接在 repository 根目錄建置；不產生 `dist/`。Netlify 使用 GitHub `main` 自動發佈，Base directory 留空、Build command 為 `python3 build_gallery.py`、Publish directory 為 `.`，目標網域為 `gallery4.sibuzu.com`。
 - 網頁每次開啟或重新整理時預設展開所有分類；保留手動收合與再次展開功能。
