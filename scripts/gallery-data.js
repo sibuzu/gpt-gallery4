@@ -32,6 +32,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "BLACK LAGOON",
+    "src": "images/BLACK LAGOON/Shenhua.png",
+    "hasDescription": true,
+    "title": "Shenhua",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "BLEACH",
     "src": "images/BLEACH/涅ネム.png",
     "hasDescription": true,
@@ -112,6 +120,30 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Freya Crescent.png",
+    "hasDescription": true,
+    "title": "Freya Crescent",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Paine.png",
+    "hasDescription": true,
+    "title": "Paine",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Metroid",
+    "src": "images/Metroid/Samus Aran.png",
+    "hasDescription": true,
+    "title": "Samus Aran",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "NARUTO／BORUTO",
     "src": "images/NARUTO／BORUTO/日向ハナビ.png",
     "hasDescription": true,
@@ -144,10 +176,74 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Shirahoshi.png",
+    "hasDescription": true,
+    "title": "Shirahoshi",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "Persona",
     "src": "images/Persona/佐倉双葉.png",
     "hasDescription": true,
     "title": "佐倉双葉",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Resident Evil",
+    "src": "images/Resident Evil/Lady Cassandra Dimitrescu.png",
+    "hasDescription": true,
+    "title": "Lady Cassandra Dimitrescu",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "Resident Evil",
+    "src": "images/Resident Evil/Sheva Alomar.png",
+    "hasDescription": true,
+    "title": "Sheva Alomar",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "The Witcher",
+    "src": "images/The Witcher/Triss Merigold.png",
+    "hasDescription": true,
+    "title": "Triss Merigold",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "クレイモア",
+    "src": "images/クレイモア/Galatea.png",
+    "hasDescription": true,
+    "title": "Galatea",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "コードギアス",
+    "src": "images/コードギアス/Cornelia li Britannia.png",
+    "hasDescription": true,
+    "title": "Cornelia li Britannia",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "チェンソーマン",
+    "src": "images/チェンソーマン/クァンシ.png",
+    "hasDescription": true,
+    "title": "クァンシ",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "チェンソーマン",
+    "src": "images/チェンソーマン/サンタクロース.png",
+    "hasDescription": true,
+    "title": "サンタクロース",
     "width": 941,
     "height": 1672
   },
@@ -184,6 +280,22 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Rosanna.png",
+    "hasDescription": true,
+    "title": "Rosanna",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/千織.png",
+    "hasDescription": true,
+    "title": "千織",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "原神 Genshin Impact",
     "src": "images/原神 Genshin Impact/甘雨.png",
     "hasDescription": true,
@@ -217,6 +329,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "呪術廻戦",
+    "src": "images/呪術廻戦/天内理子.png",
+    "hasDescription": true,
+    "title": "天内理子",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "呪術廻戦",
     "src": "images/呪術廻戦/来栖華.png",
     "hasDescription": true,
     "title": "来栖華",
@@ -230,6 +350,22 @@ window.__GALLERY_IMAGES__ = [
     "title": "アポニア",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "崩壊3rd",
+    "src": "images/崩壊3rd/テレサ・アポカリプス.png",
+    "hasDescription": true,
+    "title": "テレサ・アポカリプス",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "崩壊3rd",
+    "src": "images/崩壊3rd/フカ.png",
+    "hasDescription": true,
+    "title": "フカ",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "崩壊：スターレイル",
@@ -296,6 +432,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "拳皇",
+    "src": "images/拳皇/Sylvie Paula Paula.png",
+    "hasDescription": true,
+    "title": "Sylvie Paula Paula",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "機動戦士ガンダムSEED",
     "src": "images/機動戦士ガンダムSEED/Meer Campbell.png",
     "hasDescription": true,
@@ -316,6 +460,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/真人快打/Li Mei.png",
     "hasDescription": true,
     "title": "Li Mei",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "真人快打",
+    "src": "images/真人快打/Mileena.png",
+    "hasDescription": true,
+    "title": "Mileena",
     "width": 941,
     "height": 1671
   },
@@ -380,6 +532,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/鐵拳/Master Raven.png",
     "hasDescription": true,
     "title": "Master Raven",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "鐵拳",
+    "src": "images/鐵拳/Michelle Chang.png",
+    "hasDescription": true,
+    "title": "Michelle Chang",
     "width": 941,
     "height": 1672
   },
