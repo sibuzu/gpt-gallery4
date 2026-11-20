@@ -425,6 +425,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Vanille.png",
+    "hasDescription": true,
+    "title": "Vanille",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "FINAL FANTASY",
     "src": "images/FINAL FANTASY/Yuffie Kisaragi.png",
     "hasDescription": true,
     "title": "Yuffie Kisaragi",
@@ -470,6 +478,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "テンテン",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/小南.png",
+    "hasDescription": true,
+    "title": "小南",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "NARUTO／BORUTO",
@@ -638,6 +654,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "白鐘直斗",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "Persona",
+    "src": "images/Persona/芳澤かすみ.png",
+    "hasDescription": true,
+    "title": "芳澤かすみ",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "Persona",
@@ -832,6 +856,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "カウボーイビバップ",
+    "src": "images/カウボーイビバップ/Julia.png",
+    "hasDescription": true,
+    "title": "Julia",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "キルラキル",
     "src": "images/キルラキル/満艦飾マコ.png",
     "hasDescription": true,
@@ -1022,6 +1054,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "芦戸三奈",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "劍魂",
+    "src": "images/劍魂/Sophitia Alexandra.png",
+    "hasDescription": true,
+    "title": "Sophitia Alexandra",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "劍魂",
@@ -1382,6 +1422,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "ホタル",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/ルアン・メェイ.png",
+    "hasDescription": true,
+    "title": "ルアン・メェイ",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "崩壊：スターレイル",
