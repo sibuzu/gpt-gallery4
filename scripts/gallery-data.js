@@ -1721,14 +1721,6 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "呪術廻戦",
-    "src": "images/呪術廻戦/禪院真依-02.png",
-    "hasDescription": true,
-    "title": "禪院真依-02",
-    "width": 942,
-    "height": 1669
-  },
-  {
-    "category": "呪術廻戦",
     "src": "images/呪術廻戦/禪院真依.png",
     "hasDescription": true,
     "title": "禪院真依",
