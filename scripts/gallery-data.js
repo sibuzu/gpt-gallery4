@@ -2561,19 +2561,11 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "鐵拳",
-    "src": "images/鐵拳/Lucky Chloe-02.png",
-    "hasDescription": true,
-    "title": "Lucky Chloe-02",
-    "width": 942,
-    "height": 1669
-  },
-  {
-    "category": "鐵拳",
     "src": "images/鐵拳/Lucky Chloe.png",
     "hasDescription": true,
     "title": "Lucky Chloe",
-    "width": 941,
-    "height": 1672
+    "width": 942,
+    "height": 1669
   },
   {
     "category": "鐵拳",
