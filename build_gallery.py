@@ -12,7 +12,7 @@ from PIL import Image
 
 ROOT = Path(__file__).resolve().parent
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".gif"}
-ASSETS = ("styles/gallery.css", "scripts/gallery-data.js", "scripts/gallery.js")
+ASSETS = ("favicon.ico", "favicon.svg", "styles/gallery.css", "scripts/gallery-data.js", "scripts/gallery.js")
 
 
 def write_if_changed(path: Path, content: str) -> None:
