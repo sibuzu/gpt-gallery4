@@ -1,6 +1,14 @@
 window.__GALLERY_IMAGES__ = [
   {
     "category": "BLEACH",
+    "src": "images/BLEACH/涅ネム.png",
+    "hasDescription": true,
+    "title": "涅ネム",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "BLEACH",
     "src": "images/BLEACH/雛森桃.png",
     "hasDescription": true,
     "title": "雛森桃",
@@ -12,6 +20,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Fate 系列/イリヤスフィール・フォン・アインツベルン.png",
     "hasDescription": true,
     "title": "イリヤスフィール・フォン・アインツベルン",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Persona",
+    "src": "images/Persona/佐倉双葉.png",
+    "hasDescription": true,
+    "title": "佐倉双葉",
     "width": 941,
     "height": 1672
   },
@@ -92,6 +108,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/快打旋風/神月かりん.png",
     "hasDescription": true,
     "title": "神月かりん",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "生死格鬥",
+    "src": "images/生死格鬥/マリー・ローズ.png",
+    "hasDescription": true,
+    "title": "マリー・ローズ",
     "width": 941,
     "height": 1672
   },
