@@ -57,6 +57,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLACK LAGOON",
+    "src": "images/BLACK LAGOON/Revy.png",
+    "hasDescription": true,
+    "title": "Revy",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "BLACK LAGOON",
     "src": "images/BLACK LAGOON/Roberta.png",
     "hasDescription": true,
     "title": "Roberta",
@@ -169,6 +177,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Blue Archive",
+    "src": "images/Blue Archive/剣先ツルギ.png",
+    "hasDescription": true,
+    "title": "剣先ツルギ",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "Blue Archive",
     "src": "images/Blue Archive/十六夜ノノミ.png",
     "hasDescription": true,
     "title": "十六夜ノノミ",
@@ -254,6 +270,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "エルザ・スカーレット",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "FAIRY TAIL",
+    "src": "images/FAIRY TAIL/カナ・アルベローナ.png",
+    "hasDescription": true,
+    "title": "カナ・アルベローナ",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "FAIRY TAIL",
@@ -817,6 +841,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Resident Evil",
+    "src": "images/Resident Evil/Rose Winters.png",
+    "hasDescription": true,
+    "title": "Rose Winters",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Resident Evil",
     "src": "images/Resident Evil/Sherry Birkin.png",
     "hasDescription": true,
     "title": "Sherry Birkin",
@@ -894,6 +926,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Lara Croft",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "Tomb Raider",
+    "src": "images/Tomb Raider/Sophia Leigh.png",
+    "hasDescription": true,
+    "title": "Sophia Leigh",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "うる星やつら",
@@ -1052,6 +1092,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/ソードアート・オンライン/Leafa.png",
     "hasDescription": true,
     "title": "Leafa",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "ソードアート・オンライン",
+    "src": "images/ソードアート・オンライン/紺野木綿季.png",
+    "hasDescription": true,
+    "title": "紺野木綿季",
     "width": 941,
     "height": 1672
   },
@@ -1401,6 +1449,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/フリーナ.png",
+    "hasDescription": true,
+    "title": "フリーナ",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "原神 Genshin Impact",
     "src": "images/原神 Genshin Impact/リネット.png",
     "hasDescription": true,
     "title": "リネット",
@@ -1681,6 +1737,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/桂乃芬.png",
+    "hasDescription": true,
+    "title": "桂乃芬",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "崩壊：スターレイル",
     "src": "images/崩壊：スターレイル/符玄.png",
     "hasDescription": true,
     "title": "符玄",
@@ -1764,6 +1828,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/快打旋風/Makoto.png",
     "hasDescription": true,
     "title": "Makoto",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "快打旋風",
+    "src": "images/快打旋風/Manon.png",
+    "hasDescription": true,
+    "title": "Manon",
     "width": 941,
     "height": 1672
   },
@@ -1900,6 +1972,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/拳皇/ユリ・サカザキ.png",
     "hasDescription": true,
     "title": "ユリ・サカザキ",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "拳皇",
+    "src": "images/拳皇/不知火舞.png",
+    "hasDescription": true,
+    "title": "不知火舞",
     "width": 941,
     "height": 1671
   },
@@ -2113,6 +2193,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "真人快打",
+    "src": "images/真人快打/Sareena.png",
+    "hasDescription": true,
+    "title": "Sareena",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "真人快打",
     "src": "images/真人快打/Skarlet.png",
     "hasDescription": true,
     "title": "Skarlet",
@@ -2262,6 +2350,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "リコ・ブレツェンスカ",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "鐵拳",
+    "src": "images/鐵拳/Josie Rizal.png",
+    "hasDescription": true,
+    "title": "Josie Rizal",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "鐵拳",
