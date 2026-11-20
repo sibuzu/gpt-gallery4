@@ -405,10 +405,11 @@ function cardFor(item, index) {
   const stackBadge = item.isCollapsedGroup ? `<span class="stack-badge">+${item.groupSize - 1}</span>` : "";
   const stackClass = item.isCollapsedGroup ? " stack" : "";
   const captionDescription = captionDescriptionFor(image.description);
-  const captionTitle = captionDescription ? `${image.category} ${captionDescription}` : image.category;
+  const characterLabel = `《${image.category}》${image.title}`;
+  const captionTitle = captionDescription ? `${characterLabel} ${captionDescription}` : characterLabel;
   const categoryLabel = captionDescription
-    ? `<span class="category-line" title="${escapeHtml(captionTitle)}"><span class="category">${escapeHtml(image.category)}</span> <span class="caption-description">${escapeHtml(captionDescription)}</span></span>`
-    : `<span class="category">${escapeHtml(image.category)}</span>`;
+    ? `<span class="category-line" title="${escapeHtml(captionTitle)}"><span class="category">${escapeHtml(characterLabel)}</span> <span class="caption-description">${escapeHtml(captionDescription)}</span></span>`
+    : `<span class="category-line" title="${escapeHtml(captionTitle)}"><span class="category">${escapeHtml(characterLabel)}</span></span>`;
   const article = document.createElement("article");
   article.className = "card";
   if (item.groupKey) {
@@ -425,7 +426,6 @@ function cardFor(item, index) {
     <div class="caption">
       ${categoryLabel}
       <span class="caption-end">
-        <span class="filename">${image.title}</span>
         <span class="card-actions">
           ${image.hasDescription ? '<button class="icon-button copy-desc" type="button" aria-label="複製描述" title="複製描述"><img src="language-json-svgrepo-com.svg" alt=""></button>' : ""}
           ${item.isExpandedGroup ? '<button class="icon-button collapse-group" type="button" aria-label="收合群組" title="收合群組"><img src="collapse-svgrepo-com.svg" alt=""></button>' : ""}
