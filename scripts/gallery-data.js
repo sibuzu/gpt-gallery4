@@ -1,6 +1,14 @@
 window.__GALLERY_IMAGES__ = [
   {
     "category": "Bayonetta",
+    "src": "images/Bayonetta/Bayonetta.png",
+    "hasDescription": true,
+    "title": "Bayonetta",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "Bayonetta",
     "src": "images/Bayonetta/Jeanne.png",
     "hasDescription": true,
     "title": "Jeanne",
@@ -110,6 +118,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "涅ネム",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "BLEACH",
+    "src": "images/BLEACH/猿柿ひよ里.png",
+    "hasDescription": true,
+    "title": "猿柿ひよ里",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "BLEACH",
@@ -353,6 +369,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Quistis Trepe.png",
+    "hasDescription": true,
+    "title": "Quistis Trepe",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "FINAL FANTASY",
     "src": "images/FINAL FANTASY/Rikku.png",
     "hasDescription": true,
     "title": "Rikku",
@@ -505,6 +529,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Rebecca.png",
+    "hasDescription": true,
+    "title": "Rebecca",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "ONE PIECE",
     "src": "images/ONE PIECE/Reiju Vinsmoke.png",
     "hasDescription": true,
     "title": "Reiju Vinsmoke",
@@ -534,6 +566,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "佐倉双葉",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "Persona",
+    "src": "images/Persona/奥村春.png",
+    "hasDescription": true,
+    "title": "奥村春",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "Persona",
@@ -641,6 +681,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "The Witcher",
+    "src": "images/The Witcher/Shani.png",
+    "hasDescription": true,
+    "title": "Shani",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "The Witcher",
     "src": "images/The Witcher/Triss Merigold.png",
     "hasDescription": true,
     "title": "Triss Merigold",
@@ -708,6 +756,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/この素晴らしい世界に祝福を！/Darkness.png",
     "hasDescription": true,
     "title": "Darkness",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "この素晴らしい世界に祝福を！",
+    "src": "images/この素晴らしい世界に祝福を！/Wiz.png",
+    "hasDescription": true,
+    "title": "Wiz",
     "width": 941,
     "height": 1672
   },
@@ -1193,6 +1249,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/ホタル.png",
+    "hasDescription": true,
+    "title": "ホタル",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "崩壊：スターレイル",
     "src": "images/崩壊：スターレイル/帰忘の流離人.png",
     "hasDescription": true,
     "title": "帰忘の流離人",
@@ -1345,6 +1409,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "拳皇",
+    "src": "images/拳皇/Whip.png",
+    "hasDescription": true,
+    "title": "Whip",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "拳皇",
     "src": "images/拳皇/ユリ・サカザキ.png",
     "hasDescription": true,
     "title": "ユリ・サカザキ",
@@ -1481,6 +1553,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "真人快打",
+    "src": "images/真人快打/Kitana.png",
+    "hasDescription": true,
+    "title": "Kitana",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "真人快打",
     "src": "images/真人快打/Li Mei.png",
     "hasDescription": true,
     "title": "Li Mei",
@@ -1518,6 +1598,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "クイーン・セレニティ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "美少女戦士セーラームーン",
+    "src": "images/美少女戦士セーラームーン/土萠ほたる.png",
+    "hasDescription": true,
+    "title": "土萠ほたる",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "美少女戦士セーラームーン",
