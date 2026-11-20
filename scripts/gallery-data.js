@@ -16,6 +16,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "Blue Archive",
+    "src": "images/Blue Archive/角楯カリン.png",
+    "hasDescription": true,
+    "title": "角楯カリン",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "Fate 系列",
     "src": "images/Fate 系列/イリヤスフィール・フォン・アインツベルン.png",
     "hasDescription": true,
@@ -28,6 +36,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Persona/佐倉双葉.png",
     "hasDescription": true,
     "title": "佐倉双葉",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "チェンソーマン",
+    "src": "images/チェンソーマン/姫野.png",
+    "hasDescription": true,
+    "title": "姫野",
     "width": 941,
     "height": 1672
   },
@@ -116,6 +132,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/生死格鬥/マリー・ローズ.png",
     "hasDescription": true,
     "title": "マリー・ローズ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "進撃の巨人",
+    "src": "images/進撃の巨人/アニ・レオンハート.png",
+    "hasDescription": true,
+    "title": "アニ・レオンハート",
     "width": 941,
     "height": 1672
   },

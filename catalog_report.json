@@ -1,16 +1,19 @@
 {
-  "total_categorized": 17,
+  "total_categorized": 20,
   "category_counts": {
     "BLEACH": 2,
+    "Blue Archive": 1,
     "Fate 系列": 1,
     "Persona": 1,
+    "チェンソーマン": 1,
     "劍魂": 1,
     "勝利の女神：NIKKE": 1,
     "崩壊3rd": 1,
     "崩壊：スターレイル": 1,
     "快打旋風": 6,
     "生死格鬥": 1,
+    "進撃の巨人": 1,
     "鐵拳": 2
   },
-  "with_descriptions": 17
+  "with_descriptions": 20
 }
