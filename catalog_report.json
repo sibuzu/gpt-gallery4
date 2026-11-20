@@ -1,5 +1,5 @@
 {
-  "total_categorized": 343,
+  "total_categorized": 340,
   "category_counts": {
     "Bayonetta": 4,
     "BLACK CAT": 2,
@@ -8,7 +8,7 @@
     "Blue Archive": 9,
     "Devil May Cry": 2,
     "FAIRY TAIL": 7,
-    "Fate 系列": 14,
+    "Fate 系列": 13,
     "FINAL FANTASY": 17,
     "GHOST IN THE SHELL": 1,
     "Metroid": 1,
@@ -17,7 +17,7 @@
     "ONE PIECE": 11,
     "Persona": 9,
     "Re:ゼロから始める異世界生活": 3,
-    "Resident Evil": 9,
+    "Resident Evil": 8,
     "SPY×FAMILY": 1,
     "The Witcher": 4,
     "Tomb Raider": 3,
@@ -27,7 +27,7 @@
     "カウボーイビバップ": 2,
     "キルラキル": 1,
     "クレイモア": 3,
-    "コードギアス": 4,
+    "コードギアス": 3,
     "シティーハンター": 1,
     "ソードアート・オンライン": 2,
     "ダンジョン飯": 1,
@@ -57,5 +57,5 @@
     "鬼滅の刃": 6,
     "魔法少女まどか☆マギカ": 2
   },
-  "with_descriptions": 343
+  "with_descriptions": 340
 }

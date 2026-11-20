@@ -401,14 +401,6 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Fate 系列",
-    "src": "images/Fate 系列/玉藻の前-02.png",
-    "hasDescription": true,
-    "title": "玉藻の前-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "Fate 系列",
     "src": "images/Fate 系列/玉藻の前.png",
     "hasDescription": true,
     "title": "玉藻の前",
@@ -865,14 +857,6 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Resident Evil",
-    "src": "images/Resident Evil/Ashley Graham-02.png",
-    "hasDescription": true,
-    "title": "Ashley Graham-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "Resident Evil",
     "src": "images/Resident Evil/Ashley Graham.png",
     "hasDescription": true,
     "title": "Ashley Graham",
@@ -1142,14 +1126,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "Kallen Stadtfeld",
     "width": 941,
     "height": 1672
-  },
-  {
-    "category": "コードギアス",
-    "src": "images/コードギアス/Shirley Fenette-02.png",
-    "hasDescription": true,
-    "title": "Shirley Fenette-02",
-    "width": 942,
-    "height": 1669
   },
   {
     "category": "コードギアス",
