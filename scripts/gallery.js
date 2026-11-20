@@ -37,6 +37,8 @@ function observeCardImages() {
 
 const grid = document.querySelector("#grid");
 const filters = document.querySelector("#filters");
+const filtersToggle = document.querySelector("#filtersToggle");
+const selectedCategory = document.querySelector("#selectedCategory");
 const categoryMenu = document.querySelector("#categoryMenu");
 const search = document.querySelector("#search");
 const empty = document.querySelector("#empty");
@@ -50,6 +52,7 @@ const close = document.querySelector("#close");
 const categories = ["全部", ...new Set(images.map((image) => image.category))];
 const CATEGORY_STORAGE_KEY = "gpt-gallery4-active-category";
 let activeCategory = initialCategory();
+let filtersExpanded = true;
 let currentItems = images.map((image) => ({ image }));
 let previewIndex = -1;
 let touchStartX = 0;
@@ -88,6 +91,19 @@ function setActiveCategory(category) {
   activeCategory = category;
   rememberCategory(category);
   render();
+}
+
+function syncFiltersToggle() {
+  const label = filtersExpanded ? "收起分類列" : "展開分類列";
+  filters.hidden = !filtersExpanded;
+  filtersToggle.setAttribute("aria-expanded", String(filtersExpanded));
+  filtersToggle.setAttribute("aria-label", label);
+  filtersToggle.title = label;
+  selectedCategory.hidden = filtersExpanded;
+  selectedCategory.querySelector(".selected-category-name").textContent = activeCategory;
+  selectedCategory.querySelector(".count").textContent = activeCategory === "全部"
+    ? images.length : totals[activeCategory] || 0;
+  selectedCategory.title = activeCategory;
 }
 
 function groupByCategory(items) {
@@ -490,7 +506,7 @@ function render() {
     currentItems = filtered.map((image) => ({ image }));
   }
 
-  document.querySelectorAll(".chip").forEach((chip) => {
+  filters.querySelectorAll(".chip").forEach((chip) => {
     chip.classList.toggle("active", chip.dataset.category === activeCategory);
   });
   categoryMenu.value = activeCategory;
@@ -501,6 +517,7 @@ function render() {
   visibleCount.textContent = currentItems.length;
   totalCount.textContent = images.length;
   syncExpandAllToggle();
+  syncFiltersToggle();
 }
 
 filters.replaceChildren(...categories.map(makeChip));
@@ -510,6 +527,10 @@ categoryMenu.addEventListener("change", () => {
 });
 search.addEventListener("input", render);
 expandAllToggle.addEventListener("click", toggleAllGroups);
+filtersToggle.addEventListener("click", () => {
+  filtersExpanded = !filtersExpanded;
+  syncFiltersToggle();
+});
 window.addEventListener("resize", resizeMasonry);
 close.addEventListener("click", closePreview);
 lightbox.addEventListener("click", (event) => {

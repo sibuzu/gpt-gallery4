@@ -43,6 +43,7 @@ wn report --project PROJECT_ID --title '專案狀態通報' \
 - 新增角色 PROMPT 時逐作品完成並落盤，不等全部作品整理完才一次寫出；完成後驗證角色名單完整性及 Template 一致性。
 - 網站參考 Gallery 3，直接在 repository 根目錄建置；不產生 `dist/`。Netlify 使用 GitHub `main` 自動發佈，Base directory 留空、Build command 為 `python3 build_gallery.py`、Publish directory 為 `.`，目標網域為 `gallery4.sibuzu.com`。
 - 網頁每次開啟或重新整理時預設展開所有分類；保留手動收合與再次展開功能。
+- 桌面標題的圖片數量右側提供分類列收合按鈕，使用指定上三角 SVG；分類列預設展開，收起時改為倒三角，右側顯示目前選中的 Group 與數量，並與分類下拉選單同步。此按鈕只控制分類列，不影響圖片群組的展開狀態；手機沿用下拉選單與單欄布局。
 - 圖片網格最多 4 欄；桌面為 4 欄，窄螢幕依既有斷點縮減為 2 欄或 1 欄。
 - 圖片卡片左下標籤使用「《作品》角色名」，例如「《快打旋風》Rose」；右側保留操作按鈕，不重複顯示角色名。
 - Favicon 使用使用者提供的黑色方框數字「4」SVG，ICO 備援須使用相同圖示；建置依圖示內容雜湊更新引用版本。

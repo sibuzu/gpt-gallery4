@@ -7,7 +7,7 @@
   <title>Gallery 4</title>
   <link rel="icon" href="favicon.ico?v=6af9208b212a" type="image/x-icon">
   <link rel="icon" href="favicon.svg?v=811685325d47" type="image/svg+xml">
-  <link rel="stylesheet" href="styles/gallery.css?v=2efbf08d2672">
+  <link rel="stylesheet" href="styles/gallery.css?v=dafee57a9d93">
 </head>
 <body>
   <header>
@@ -19,6 +19,14 @@
             <img src="collapse-svgrepo-com.svg" alt="">
           </button>
           <p class="meta"><span id="visibleCount">0</span>/<span id="totalCount">0</span> images</p>
+          <div class="filter-controls">
+            <button class="filters-toggle icon-button" id="filtersToggle" type="button" aria-controls="filters" aria-expanded="true" aria-label="收起分類列" title="收起分類列">
+              <svg viewBox="0 -0.5 17 17" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg">
+                <path d="M7.96,2.392 C8.541,1.812 9.482,1.812 10.064,2.392 L16.506,8.836 C17.088,9.417 17.345,10.939 15.506,10.939 L2.518,10.939 C0.616,10.939 0.936,9.418 1.517,8.836 L7.96,2.392 L7.96,2.392 Z" fill="currentColor"/>
+              </svg>
+            </button>
+            <span class="selected-category chip active" id="selectedCategory" aria-live="polite" hidden><span class="selected-category-name"></span><span class="count"></span></span>
+          </div>
         </div>
       </div>
       <select class="category-menu" id="categoryMenu" aria-label="作品分類"></select>
@@ -40,6 +48,6 @@
     </figure>
   </div>
   <script src="scripts/gallery-data.js?v=d2ea3fa90725" defer></script>
-  <script src="scripts/gallery.js?v=dcf4983c522f" defer></script>
+  <script src="scripts/gallery.js?v=6f783aca9757" defer></script>
 </body>
 </html>

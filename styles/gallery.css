@@ -36,7 +36,7 @@ header {
   align-items: end;
   display: grid;
   gap: 18px;
-  grid-template-columns: 1fr minmax(180px, 240px) minmax(220px, 320px);
+  grid-template-columns: minmax(0, 1fr) minmax(180px, 240px) minmax(220px, 320px);
   margin: 0 auto;
   max-width: 1280px;
 }
@@ -67,6 +67,53 @@ h1 {
 .title-toggle img {
   height: 21px;
   width: 21px;
+}
+
+.filter-controls {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  max-width: 100%;
+  min-width: 0;
+}
+
+.filters-toggle.icon-button {
+  flex: 0 0 auto;
+  height: 32px;
+  width: 32px;
+}
+
+.filters-toggle svg {
+  height: 21px;
+  width: 21px;
+}
+
+.filters-toggle[aria-expanded="false"] svg {
+  transform: rotate(180deg);
+}
+
+.selected-category.chip {
+  cursor: default;
+  min-width: 0;
+}
+
+.selected-category.chip:hover {
+  transform: none;
+}
+
+.selected-category-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.selected-category .count {
+  flex-shrink: 0;
+}
+
+.filters[hidden],
+.selected-category[hidden] {
+  display: none;
 }
 
 .hidden {
@@ -554,6 +601,7 @@ main {
 
   .meta,
   .search,
+  .filter-controls,
   .filters {
     display: none;
   }
