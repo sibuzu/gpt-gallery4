@@ -121,6 +121,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Blue Archive",
+    "src": "images/Blue Archive/十六夜ノノミ.png",
+    "hasDescription": true,
+    "title": "十六夜ノノミ",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Blue Archive",
     "src": "images/Blue Archive/浅黄ムツキ.png",
     "hasDescription": true,
     "title": "浅黄ムツキ",
@@ -160,12 +168,28 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "Devil May Cry",
+    "src": "images/Devil May Cry/Lucia.png",
+    "hasDescription": true,
+    "title": "Lucia",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "FAIRY TAIL",
     "src": "images/FAIRY TAIL/ウルティア・ミルコビッチ.png",
     "hasDescription": true,
     "title": "ウルティア・ミルコビッチ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "FAIRY TAIL",
+    "src": "images/FAIRY TAIL/エルザ・スカーレット.png",
+    "hasDescription": true,
+    "title": "エルザ・スカーレット",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "FAIRY TAIL",
@@ -241,6 +265,22 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Aerith Gainsborough.png",
+    "hasDescription": true,
+    "title": "Aerith Gainsborough",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Ashe.png",
+    "hasDescription": true,
+    "title": "Ashe",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "FINAL FANTASY",
     "src": "images/FINAL FANTASY/Benedikta Harman.png",
     "hasDescription": true,
     "title": "Benedikta Harman",
@@ -297,6 +337,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/うちはサラダ.png",
+    "hasDescription": true,
+    "title": "うちはサラダ",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "NARUTO／BORUTO",
     "src": "images/NARUTO／BORUTO/テマリ.png",
     "hasDescription": true,
     "title": "テマリ",
@@ -305,9 +353,25 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/テンテン.png",
+    "hasDescription": true,
+    "title": "テンテン",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "NARUTO／BORUTO",
     "src": "images/NARUTO／BORUTO/日向ハナビ.png",
     "hasDescription": true,
     "title": "日向ハナビ",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/日向ヒナタ.png",
+    "hasDescription": true,
+    "title": "日向ヒナタ",
     "width": 941,
     "height": 1670
   },
@@ -321,11 +385,27 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "NieR",
+    "src": "images/NieR/Commander White.png",
+    "hasDescription": true,
+    "title": "Commander White",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "NieR",
     "src": "images/NieR/Devola.png",
     "hasDescription": true,
     "title": "Devola",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "NieR",
+    "src": "images/NieR/Kaine.png",
+    "hasDescription": true,
+    "title": "Kaine",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "ONE PIECE",
@@ -437,6 +517,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "Lady Cassandra Dimitrescu",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "Resident Evil",
+    "src": "images/Resident Evil/Sherry Birkin.png",
+    "hasDescription": true,
+    "title": "Sherry Birkin",
+    "width": 942,
     "height": 1670
   },
   {
@@ -576,6 +664,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "シティーハンター",
+    "src": "images/シティーハンター/槇村香.png",
+    "hasDescription": true,
+    "title": "槇村香",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "ソードアート・オンライン",
     "src": "images/ソードアート・オンライン/Leafa.png",
     "hasDescription": true,
@@ -632,6 +728,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "チェンソーマン",
+    "src": "images/チェンソーマン/飢餓の悪魔.png",
+    "hasDescription": true,
+    "title": "飢餓の悪魔",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "亂馬½",
     "src": "images/亂馬½/久遠寺右京.png",
     "hasDescription": true,
@@ -644,6 +748,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/亂馬½/早乙女のどか.png",
     "hasDescription": true,
     "title": "早乙女のどか",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "僕のヒーローアカデミア",
+    "src": "images/僕のヒーローアカデミア/スターアンドストライプ.png",
+    "hasDescription": true,
+    "title": "スターアンドストライプ",
     "width": 941,
     "height": 1671
   },
@@ -662,6 +774,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Xianghua Chai",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Cinderella.png",
+    "hasDescription": true,
+    "title": "Cinderella",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "勝利の女神：NIKKE",
@@ -897,6 +1017,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/帰忘の流離人.png",
+    "hasDescription": true,
+    "title": "帰忘の流離人",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "崩壊：スターレイル",
     "src": "images/崩壊：スターレイル/御空.png",
     "hasDescription": true,
     "title": "御空",
@@ -937,11 +1065,27 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "快打旋風",
+    "src": "images/快打旋風/C. Viper.png",
+    "hasDescription": true,
+    "title": "C. Viper",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "快打旋風",
     "src": "images/快打旋風/Cammy White.png",
     "hasDescription": true,
     "title": "Cammy White",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "快打旋風",
+    "src": "images/快打旋風/Elena.png",
+    "hasDescription": true,
+    "title": "Elena",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "快打旋風",
@@ -1056,10 +1200,34 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "灼眼のシャナ",
+    "src": "images/灼眼のシャナ/Wilhelmina Carmel.png",
+    "hasDescription": true,
+    "title": "Wilhelmina Carmel",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "犬夜叉",
     "src": "images/犬夜叉/桔梗.png",
     "hasDescription": true,
     "title": "桔梗",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "犬夜叉",
+    "src": "images/犬夜叉/珊瑚.png",
+    "hasDescription": true,
+    "title": "珊瑚",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "生死格鬥",
+    "src": "images/生死格鬥/Lisa Hamilton.png",
+    "hasDescription": true,
+    "title": "Lisa Hamilton",
     "width": 941,
     "height": 1672
   },
@@ -1070,6 +1238,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Mila",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "生死格鬥",
+    "src": "images/生死格鬥/ティナ.png",
+    "hasDescription": true,
+    "title": "ティナ",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "生死格鬥",
@@ -1121,6 +1297,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "真人快打",
+    "src": "images/真人快打/Skarlet.png",
+    "hasDescription": true,
+    "title": "Skarlet",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "真人快打",
     "src": "images/真人快打/Tanya.png",
     "hasDescription": true,
     "title": "Tanya",
@@ -1137,11 +1321,35 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "美少女戦士セーラームーン",
+    "src": "images/美少女戦士セーラームーン/天王はるか.png",
+    "hasDescription": true,
+    "title": "天王はるか",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "美少女戦士セーラームーン",
     "src": "images/美少女戦士セーラームーン/水野亜美.png",
     "hasDescription": true,
     "title": "水野亜美",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "葬送のフリーレン",
+    "src": "images/葬送のフリーレン/Frieren.png",
+    "hasDescription": true,
+    "title": "Frieren",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "葬送のフリーレン",
+    "src": "images/葬送のフリーレン/Übel.png",
+    "hasDescription": true,
+    "title": "Übel",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "進撃の巨人",
