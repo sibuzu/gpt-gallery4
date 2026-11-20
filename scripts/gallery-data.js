@@ -193,6 +193,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Blue Archive",
+    "src": "images/Blue Archive/天雨アコ.png",
+    "hasDescription": true,
+    "title": "天雨アコ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Blue Archive",
     "src": "images/Blue Archive/小鳥遊ホシノ.png",
     "hasDescription": true,
     "title": "小鳥遊ホシノ",
@@ -510,6 +518,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Yuffie Kisaragi",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Yuna.png",
+    "hasDescription": true,
+    "title": "Yuna",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "GHOST IN THE SHELL",
@@ -1318,6 +1334,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Emma",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Helm.png",
+    "hasDescription": true,
+    "title": "Helm",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "勝利の女神：NIKKE",
@@ -2140,6 +2164,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/生死格鬥/マリー・ローズ.png",
     "hasDescription": true,
     "title": "マリー・ローズ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "生死格鬥",
+    "src": "images/生死格鬥/紅葉.png",
+    "hasDescription": true,
+    "title": "紅葉",
     "width": 941,
     "height": 1672
   },
