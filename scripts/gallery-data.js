@@ -89,6 +89,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLEACH",
+    "src": "images/BLEACH/松本乱菊.png",
+    "hasDescription": true,
+    "title": "松本乱菊",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "BLEACH",
     "src": "images/BLEACH/涅ネム.png",
     "hasDescription": true,
     "title": "涅ネム",
@@ -118,6 +126,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "浅黄ムツキ",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "Blue Archive",
+    "src": "images/Blue Archive/生塩ノア.png",
+    "hasDescription": true,
+    "title": "生塩ノア",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "Blue Archive",
@@ -180,6 +196,14 @@ window.__GALLERY_IMAGES__ = [
     "src": "images/Fate 系列/ジャンヌ・ダルク〔オルタ〕.png",
     "hasDescription": true,
     "title": "ジャンヌ・ダルク〔オルタ〕",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/ネロ・クラウディウス.png",
+    "hasDescription": true,
+    "title": "ネロ・クラウディウス",
     "width": 942,
     "height": 1670
   },
@@ -361,6 +385,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Persona",
+    "src": "images/Persona/白鐘直斗.png",
+    "hasDescription": true,
+    "title": "白鐘直斗",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Persona",
     "src": "images/Persona/高巻杏.png",
     "hasDescription": true,
     "title": "高巻杏",
@@ -374,6 +406,22 @@ window.__GALLERY_IMAGES__ = [
     "title": "Emilia",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "Resident Evil",
+    "src": "images/Resident Evil/Ashley Graham-02.png",
+    "hasDescription": true,
+    "title": "Ashley Graham-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Resident Evil",
+    "src": "images/Resident Evil/Ashley Graham.png",
+    "hasDescription": true,
+    "title": "Ashley Graham",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "Resident Evil",
@@ -472,6 +520,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "とある科学の超電磁砲",
+    "src": "images/とある科学の超電磁砲/白井黒子.png",
+    "hasDescription": true,
+    "title": "白井黒子",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "カウボーイビバップ",
     "src": "images/カウボーイビバップ/Faye Valentine.png",
     "hasDescription": true,
@@ -493,6 +549,14 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "Galatea",
     "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "クレイモア",
+    "src": "images/クレイモア/Ophelia.png",
+    "hasDescription": true,
+    "title": "Ophelia",
+    "width": 941,
     "height": 1670
   },
   {
@@ -569,11 +633,27 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "亂馬½",
+    "src": "images/亂馬½/久遠寺右京.png",
+    "hasDescription": true,
+    "title": "久遠寺右京",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "亂馬½",
     "src": "images/亂馬½/早乙女のどか.png",
     "hasDescription": true,
     "title": "早乙女のどか",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "僕のヒーローアカデミア",
+    "src": "images/僕のヒーローアカデミア/芦戸三奈.png",
+    "hasDescription": true,
+    "title": "芦戸三奈",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "劍魂",
@@ -624,12 +704,36 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Scarlet.png",
+    "hasDescription": true,
+    "title": "Scarlet",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "原神 Genshin Impact",
     "src": "images/原神 Genshin Impact/アルレッキーノ.png",
     "hasDescription": true,
     "title": "アルレッキーノ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/シトラリ.png",
+    "hasDescription": true,
+    "title": "シトラリ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/ニィロウ.png",
+    "hasDescription": true,
+    "title": "ニィロウ",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "原神 Genshin Impact",
@@ -694,6 +798,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "世良真純",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "名探偵コナン",
+    "src": "images/名探偵コナン/毛利蘭.png",
+    "hasDescription": true,
+    "title": "毛利蘭",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "呪術廻戦",
@@ -761,6 +873,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊3rd",
+    "src": "images/崩壊3rd/リタ・ロスヴァイセ.png",
+    "hasDescription": true,
+    "title": "リタ・ロスヴァイセ",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "崩壊3rd",
     "src": "images/崩壊3rd/ヴィルヴィ.png",
     "hasDescription": true,
     "title": "ヴィルヴィ",
@@ -801,6 +921,14 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/鏡流.png",
+    "hasDescription": true,
+    "title": "鏡流",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "崩壊：スターレイル",
     "src": "images/崩壊：スターレイル/黄泉.png",
     "hasDescription": true,
     "title": "黄泉",
@@ -814,6 +942,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Cammy White",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "快打旋風",
+    "src": "images/快打旋風/Lucia Morgan.png",
+    "hasDescription": true,
+    "title": "Lucia Morgan",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "快打旋風",
@@ -896,6 +1032,14 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "新世紀エヴァンゲリオン",
+    "src": "images/新世紀エヴァンゲリオン/碇ユイ.png",
+    "hasDescription": true,
+    "title": "碇ユイ",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "機動戦士ガンダムSEED",
     "src": "images/機動戦士ガンダムSEED/Cagalli Yula Athha.png",
     "hasDescription": true,
@@ -929,11 +1073,35 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "生死格鬥",
+    "src": "images/生死格鬥/ヒトミ.png",
+    "hasDescription": true,
+    "title": "ヒトミ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "生死格鬥",
     "src": "images/生死格鬥/マリー・ローズ.png",
     "hasDescription": true,
     "title": "マリー・ローズ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "真人快打",
+    "src": "images/真人快打/Cetrion.png",
+    "hasDescription": true,
+    "title": "Cetrion",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "真人快打",
+    "src": "images/真人快打/Frost.png",
+    "hasDescription": true,
+    "title": "Frost",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "真人快打",
@@ -1038,6 +1206,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "Michelle Chang",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "鐵拳",
+    "src": "images/鐵拳/Panda.png",
+    "hasDescription": true,
+    "title": "Panda",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "鐵拳",
