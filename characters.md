@@ -18,10 +18,8 @@
 14. Kimberly Jackson
 15. Manon
 16. Lily Hawk
-17. A.K.I.
-18. Falke
-19. Decapre
-20. Menat
+17. Falke
+18. Menat
 
 ### **The King of Fighters（拳皇）**
 

@@ -159,11 +159,16 @@ function makeOption(category) {
   return option;
 }
 
+function imageUrlFor(image) {
+  const path = encodeURI(image.src);
+  return image.version ? `${path}?v=${image.version}` : path;
+}
+
 function showPreview(index) {
   if (!currentItems.length) return;
   previewIndex = (index + currentItems.length) % currentItems.length;
   const image = currentItems[previewIndex].image;
-  preview.src = encodeURI(image.src);
+  preview.src = imageUrlFor(image);
   preview.alt = image.category;
   previewCaption.textContent = `${image.category} · ${image.title}`;
 }
@@ -436,7 +441,7 @@ function cardFor(item, index) {
   }
   article.innerHTML = `
     <div class="card-media${stackClass}">
-      <img loading="lazy" decoding="async" width="${image.width || 1024}" height="${image.height || 1536}" data-src="${encodeURI(image.src)}" alt="${image.category}" tabindex="0">
+      <img loading="lazy" decoding="async" width="${image.width || 1024}" height="${image.height || 1536}" data-src="${imageUrlFor(image)}" alt="${image.category}" tabindex="0">
       ${stackBadge}
     </div>
     <div class="caption">

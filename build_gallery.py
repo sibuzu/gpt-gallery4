@@ -33,6 +33,7 @@ def build() -> dict:
         item = {
             "category": image_path.parent.relative_to(image_root).as_posix(),
             "src": image_path.relative_to(ROOT).as_posix(),
+            "version": hashlib.sha256(image_path.read_bytes()).hexdigest()[:12],
             "hasDescription": image_path.with_suffix(".md").is_file(),
             "title": image_path.stem,
             "width": width,

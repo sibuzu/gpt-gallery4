@@ -40,6 +40,9 @@ wn report --project PROJECT_ID --title '專案狀態通報' \
 - 維護 PROMPT 前先讀 `characters.md` 與 `todo/todo.md`。每個角色使用 `images/<作品>/<角色>.md`；依 Template 製作角色 PROMPT 時，只替換大括號佔位內容，固定文字不得更動。分享圖的同名 PROMPT 依生成來源完整原文同步，不強制重套 Template。
 - 使用者說 `add` 或提供分享連結時，預設加入全部生成圖片、同步更新其完整原始 PROMPT、重建圖庫、commit 並 push 至 `sibuzu/gpt-gallery4` 的 `main`；不需另行確認。若本次另有限制，以本次指示為準。未明確指定跳過就全部加入，僅略過本次指定的圖片。
 - PNG 使用角色同名檔案並保留原始位元組；以來源 file ID 與檔案雜湊配對原分享對話，將完整原始使用者 PROMPT 保存至同名 `.md`，包括更新該角色既有的 PROMPT。其他角色 PROMPT 與既有圖片保持原樣；不同版本圖片不得互相覆寫。推送後確認本地與遠端 HEAD 一致。
+- 使用者說「移除」時，預設只移除指定角色或版本的 PNG；保留同名 PROMPT（`.md`）與 `characters.md` 角色資料。只有使用者明確指定移除 PROMPT 或 `characters.md` 時，才移除其指定範圍；不得因刪 PNG 自動連帶刪除角色文字資料。
+- 使用者說 `FULL-REMOVE` 時，移除該作品內指定角色的所有 PNG 與對應 PROMPT（`.md`），並從 `characters.md` 刪除角色條目、調整該作品清單編號。若同次提供分享連結，略過其中該角色的圖片與 PROMPT。
+- 建置為每張圖片產生內容 SHA256 前 12 碼版本，卡片及放大預覽均使用 `?v=<版本>` 請求，避免同名換圖沿用舊快取；索引 `src` 保留原始檔案路徑，PROMPT 仍讀取同名 `.md`。
 - 新增角色 PROMPT 時逐作品完成並落盤，不等全部作品整理完才一次寫出；完成後驗證角色名單完整性及 Template 一致性。
 - 網站參考 Gallery 3，直接在 repository 根目錄建置；不產生 `dist/`。Netlify 使用 GitHub `main` 自動發佈，Base directory 留空、Build command 為 `python3 build_gallery.py`、Publish directory 為 `.`，目標網域為 `gallery4.sibuzu.com`。
 - 網頁每次開啟或重新整理時預設展開所有分類；保留手動收合與再次展開功能。
