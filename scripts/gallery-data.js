@@ -235,6 +235,24 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Blue Archive",
+    "src": "images/Blue Archive/桐藤ナギサ-02.png",
+    "version": "85b3d661fc24",
+    "hasDescription": true,
+    "title": "桐藤ナギサ-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Blue Archive",
+    "src": "images/Blue Archive/桐藤ナギサ.png",
+    "version": "db21e531937f",
+    "hasDescription": true,
+    "title": "桐藤ナギサ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Blue Archive",
     "src": "images/Blue Archive/浅黄ムツキ.png",
     "version": "77bf4279cc47",
     "hasDescription": true,
@@ -248,6 +266,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "c6a3411c14b1",
     "hasDescription": true,
     "title": "生塩ノア",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Blue Archive",
+    "src": "images/Blue Archive/砂狼シロコ.png",
+    "version": "4f4161dd0cf9",
+    "hasDescription": true,
+    "title": "砂狼シロコ",
     "width": 941,
     "height": 1672
   },
@@ -295,6 +322,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "銀鏡イオリ",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "Blue Archive",
+    "src": "images/Blue Archive/陸八魔アル.png",
+    "version": "000683cff451",
+    "hasDescription": true,
+    "title": "陸八魔アル",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "Blue Archive",
@@ -599,6 +635,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "7d213b59b910",
     "hasDescription": true,
     "title": "Jessie Rasberry",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Jill Warrick.png",
+    "version": "ddacc09b07d4",
+    "hasDescription": true,
+    "title": "Jill Warrick",
     "width": 941,
     "height": 1670
   },
@@ -1063,6 +1108,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Persona",
+    "src": "images/Persona/里中千枝.png",
+    "version": "378959e68485",
+    "hasDescription": true,
+    "title": "里中千枝",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "Persona",
     "src": "images/Persona/高巻杏.png",
     "version": "1b08811f6763",
     "hasDescription": true,
@@ -1360,6 +1414,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "とある科学の超電磁砲",
+    "src": "images/とある科学の超電磁砲/佐天涙子.png",
+    "version": "0bcc690c76e9",
+    "hasDescription": true,
+    "title": "佐天涙子",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "とある科学の超電磁砲",
     "src": "images/とある科学の超電磁砲/白井黒子.png",
     "version": "d8ca83c9f3fe",
     "hasDescription": true,
@@ -1409,6 +1472,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "5c9456ea2725",
     "hasDescription": true,
     "title": "纏流子",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "キルラキル",
+    "src": "images/キルラキル/鬼龍院皐月.png",
+    "version": "0fa515893f59",
+    "hasDescription": true,
+    "title": "鬼龍院皐月",
     "width": 941,
     "height": 1670
   },
@@ -1495,6 +1567,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "ソードアート・オンライン",
+    "src": "images/ソードアート・オンライン/Sinon.png",
+    "version": "5983232fc26b",
+    "hasDescription": true,
+    "title": "Sinon",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "ソードアート・オンライン",
     "src": "images/ソードアート・オンライン/紺野木綿季.png",
     "version": "e83a0cb4a296",
     "hasDescription": true,
@@ -1553,6 +1634,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "741771546a1b",
     "hasDescription": true,
     "title": "パワー",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "チェンソーマン",
+    "src": "images/チェンソーマン/マキマ.png",
+    "version": "a9dbd7c0a36f",
+    "hasDescription": true,
+    "title": "マキマ",
     "width": 942,
     "height": 1670
   },
@@ -1746,6 +1836,15 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "僕のヒーローアカデミア",
+    "src": "images/僕のヒーローアカデミア/麗日お茶子.png",
+    "version": "8f61a50a824e",
+    "hasDescription": true,
+    "title": "麗日お茶子",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "劍魂",
     "src": "images/劍魂/Pyrrha Alexandra.png",
     "version": "6aed340ae3c8",
@@ -1762,6 +1861,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Seong Mi-na",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "劍魂",
+    "src": "images/劍魂/Setsuka.png",
+    "version": "0571d92a4aac",
+    "hasDescription": true,
+    "title": "Setsuka",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "劍魂",
@@ -1798,6 +1906,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Xianghua Chai",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Alice.png",
+    "version": "6da0968ef8f2",
+    "hasDescription": true,
+    "title": "Alice",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "勝利の女神：NIKKE",
@@ -2215,6 +2332,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "呪術廻戦",
+    "src": "images/呪術廻戦/冥冥.png",
+    "version": "4b00ab3d4378",
+    "hasDescription": true,
+    "title": "冥冥",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "呪術廻戦",
     "src": "images/呪術廻戦/天内理子.png",
     "version": "701e93fd2e96",
     "hasDescription": true,
@@ -2395,6 +2521,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/停雲.png",
+    "version": "963f53fea482",
+    "hasDescription": true,
+    "title": "停雲",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "崩壊：スターレイル",
     "src": "images/崩壊：スターレイル/帰忘の流離人.png",
     "version": "efe36ddef124",
     "hasDescription": true,
@@ -2464,6 +2599,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "霊砂",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/飛霄.png",
+    "version": "af9f303f80ee",
+    "hasDescription": true,
+    "title": "飛霄",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "崩壊：スターレイル",
@@ -2854,6 +2998,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "灼眼のシャナ",
+    "src": "images/灼眼のシャナ/Shana.png",
+    "version": "dc647319e48f",
+    "hasDescription": true,
+    "title": "Shana",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "灼眼のシャナ",
     "src": "images/灼眼のシャナ/Wilhelmina Carmel.png",
     "version": "02aa795ea866",
     "hasDescription": true,
@@ -2926,6 +3079,24 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "生死格鬥",
+    "src": "images/生死格鬥/Rachel-02.png",
+    "version": "b66c20b34f58",
+    "hasDescription": true,
+    "title": "Rachel-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "生死格鬥",
+    "src": "images/生死格鬥/Rachel.png",
+    "version": "b40c5af5d519",
+    "hasDescription": true,
+    "title": "Rachel",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "生死格鬥",
     "src": "images/生死格鬥/こころ.png",
     "version": "3a3b04ff60eb",
     "hasDescription": true,
@@ -2975,6 +3146,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "a5b518fce161",
     "hasDescription": true,
     "title": "レイファン",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "生死格鬥",
+    "src": "images/生死格鬥/不知火舞.png",
+    "version": "cd4c7db3cffe",
+    "hasDescription": true,
+    "title": "不知火舞",
     "width": 942,
     "height": 1670
   },
@@ -3106,6 +3286,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "美少女戦士セーラームーン",
+    "src": "images/美少女戦士セーラームーン/ちびうさ.png",
+    "version": "d9e5cd23f325",
+    "hasDescription": true,
+    "title": "ちびうさ",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "美少女戦士セーラームーン",
     "src": "images/美少女戦士セーラームーン/クイーン・セレニティ.png",
     "version": "1510659bd90b",
     "hasDescription": true,
@@ -3166,6 +3355,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "水野亜美",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "美少女戦士セーラームーン",
+    "src": "images/美少女戦士セーラームーン/海王みちる.png",
+    "version": "0821410b33db",
+    "hasDescription": true,
+    "title": "海王みちる",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "葬送のフリーレン",
@@ -3490,5 +3688,14 @@ window.__GALLERY_IMAGES__ = [
     "title": "暁美ほむら",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "魔法少女まどか☆マギカ",
+    "src": "images/魔法少女まどか☆マギカ/鹿目まどか.png",
+    "version": "3f7ca215c260",
+    "hasDescription": true,
+    "title": "鹿目まどか",
+    "width": 942,
+    "height": 1670
   }
 ];
