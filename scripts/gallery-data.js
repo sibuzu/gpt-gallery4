@@ -154,6 +154,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLEACH",
+    "src": "images/BLEACH/毒ヶ峰リルカ.png",
+    "version": "d97ff750092f",
+    "hasDescription": true,
+    "title": "毒ヶ峰リルカ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "BLEACH",
     "src": "images/BLEACH/涅ネム.png",
     "version": "12c35ab74e08",
     "hasDescription": true,
@@ -223,6 +232,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "天雨アコ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "Blue Archive",
+    "src": "images/Blue Archive/奥空アヤネ.png",
+    "version": "75c5c58a72bf",
+    "hasDescription": true,
+    "title": "奥空アヤネ",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "Blue Archive",
@@ -925,6 +943,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Black Maria",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Boa Hancock.png",
+    "version": "ab1aa5e9ed97",
+    "hasDescription": true,
+    "title": "Boa Hancock",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "ONE PIECE",
@@ -2179,6 +2206,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/凝光.png",
+    "version": "dc3356e782c8",
+    "hasDescription": true,
+    "title": "凝光",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "原神 Genshin Impact",
     "src": "images/原神 Genshin Impact/刻晴.png",
     "version": "f4e559229b60",
     "hasDescription": true,
@@ -3022,6 +3058,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Roxy Migurdia",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "犬夜叉",
+    "src": "images/犬夜叉/りん.png",
+    "version": "6d5dda5fb5b8",
+    "hasDescription": true,
+    "title": "りん",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "犬夜叉",
