@@ -145,6 +145,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLEACH",
+    "src": "images/BLEACH/朽木ルキア.png",
+    "version": "23d0dd1f1cf8",
+    "hasDescription": true,
+    "title": "朽木ルキア",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "BLEACH",
     "src": "images/BLEACH/松本乱菊.png",
     "version": "4ca6e6ced89d",
     "hasDescription": true,
@@ -2554,6 +2563,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "ルアン・メェイ",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/三月なのか.png",
+    "version": "99368521d0cb",
+    "hasDescription": true,
+    "title": "三月なのか",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "崩壊：スターレイル",
