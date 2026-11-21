@@ -154,24 +154,6 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLEACH",
-    "src": "images/BLEACH/松本乱菊.png",
-    "version": "4ca6e6ced89d",
-    "hasDescription": true,
-    "title": "松本乱菊",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "BLEACH",
-    "src": "images/BLEACH/毒ヶ峰リルカ.png",
-    "version": "d97ff750092f",
-    "hasDescription": true,
-    "title": "毒ヶ峰リルカ",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "BLEACH",
     "src": "images/BLEACH/涅ネム.png",
     "version": "12c35ab74e08",
     "hasDescription": true,
@@ -262,17 +244,8 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Blue Archive",
-    "src": "images/Blue Archive/桐藤ナギサ-02.png",
-    "version": "85b3d661fc24",
-    "hasDescription": true,
-    "title": "桐藤ナギサ-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "Blue Archive",
     "src": "images/Blue Archive/桐藤ナギサ.png",
-    "version": "db21e531937f",
+    "version": "85b3d661fc24",
     "hasDescription": true,
     "title": "桐藤ナギサ",
     "width": 941,
