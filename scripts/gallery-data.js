@@ -973,6 +973,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Ulti.png",
+    "version": "820a67342fac",
+    "hasDescription": true,
+    "title": "Ulti",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "ONE PIECE",
     "src": "images/ONE PIECE/Yamato.png",
     "version": "b1d3397c4035",
     "hasDescription": true,
@@ -1087,6 +1096,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Priscilla Barielle",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "Re:ゼロから始める異世界生活",
+    "src": "images/Re:ゼロから始める異世界生活/Ram.png",
+    "version": "39ed489f056f",
+    "hasDescription": true,
+    "title": "Ram",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "Re:ゼロから始める異世界生活",
@@ -1319,6 +1337,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "3a8d1da88e03",
     "hasDescription": true,
     "title": "Wiz",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "この素晴らしい世界に祝福を！",
+    "src": "images/この素晴らしい世界に祝福を！/めぐみん.png",
+    "version": "adde56692b22",
+    "hasDescription": true,
+    "title": "めぐみん",
     "width": 941,
     "height": 1672
   },
@@ -1720,6 +1747,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "劍魂",
+    "src": "images/劍魂/Pyrrha Alexandra.png",
+    "version": "6aed340ae3c8",
+    "hasDescription": true,
+    "title": "Pyrrha Alexandra",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "劍魂",
     "src": "images/劍魂/Seong Mi-na.png",
     "version": "7643bb4a101f",
     "hasDescription": true,
@@ -2086,6 +2122,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "申鶴",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/神里綾華.png",
+    "version": "ac7f98e16237",
+    "hasDescription": true,
+    "title": "神里綾華",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "原神 Genshin Impact",
@@ -2644,6 +2689,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Leona Heidern",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "拳皇",
+    "src": "images/拳皇/Luong.png",
+    "version": "172718c614bc",
+    "hasDescription": true,
+    "title": "Luong",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "拳皇",
