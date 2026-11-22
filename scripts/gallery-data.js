@@ -640,6 +640,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Celes Chere.png",
+    "version": "52a0e85b1cc8",
+    "hasDescription": true,
+    "title": "Celes Chere",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "FINAL FANTASY",
     "src": "images/FINAL FANTASY/Fran.png",
     "version": "31efff3a0e2e",
     "hasDescription": true,
@@ -1279,6 +1288,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Resident Evil",
+    "src": "images/Resident Evil/Ada Wong.png",
+    "version": "1f50d57b8459",
+    "hasDescription": true,
+    "title": "Ada Wong",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "Resident Evil",
     "src": "images/Resident Evil/Alcina Dimitrescu.png",
     "version": "0eb54ed34785",
     "hasDescription": true,
@@ -1391,6 +1409,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "ce311e7fb2d9",
     "hasDescription": true,
     "title": "Sheva Alomar",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "SPY×FAMILY",
+    "src": "images/SPY×FAMILY/シルヴィア・シャーウッド.png",
+    "version": "9e68b6ebdb1f",
+    "hasDescription": true,
+    "title": "シルヴィア・シャーウッド",
     "width": 941,
     "height": 1672
   },
@@ -2278,6 +2305,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Rupee.png",
+    "version": "84ac741d4edf",
+    "hasDescription": true,
+    "title": "Rupee",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Scarlet.png",
     "version": "4fa2c4400205",
     "hasDescription": true,
@@ -2743,6 +2779,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "無量塔姫子",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/カフカ.png",
+    "version": "94fa141e9def",
+    "hasDescription": true,
+    "title": "カフカ",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "崩壊：スターレイル",
