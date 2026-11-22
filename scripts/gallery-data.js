@@ -2854,15 +2854,6 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
-    "src": "images/勝利の女神：NIKKE/Sakura-02.png",
-    "version": "293044214096",
-    "hasDescription": true,
-    "title": "Sakura-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Sakura.png",
     "version": "4e089943dee4",
     "hasDescription": true,
@@ -4276,15 +4267,6 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "生死格鬥",
-    "src": "images/生死格鬥/Rachel-02.png",
-    "version": "b66c20b34f58",
-    "hasDescription": true,
-    "title": "Rachel-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "生死格鬥",
     "src": "images/生死格鬥/Rachel.png",
     "version": "b40c5af5d519",
     "hasDescription": true,
@@ -4564,15 +4546,6 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "美少女戦士セーラームーン",
-    "src": "images/美少女戦士セーラームーン/ブラック・レディ.png",
-    "version": "62997e58a27b",
-    "hasDescription": true,
-    "title": "ブラック・レディ",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "美少女戦士セーラームーン",
     "src": "images/美少女戦士セーラームーン/冥王せつな.png",
     "version": "fbc468f17936",
     "hasDescription": true,
@@ -4735,28 +4708,10 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "進撃の巨人",
-    "src": "images/進撃の巨人/ヒストリア・レイス-02.png",
-    "version": "cb6876169694",
-    "hasDescription": true,
-    "title": "ヒストリア・レイス-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "進撃の巨人",
     "src": "images/進撃の巨人/ヒストリア・レイス-03.png",
     "version": "e5e71e6263de",
     "hasDescription": true,
     "title": "ヒストリア・レイス-03",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "進撃の巨人",
-    "src": "images/進撃の巨人/ヒストリア・レイス.png",
-    "version": "4f4c049f171f",
-    "hasDescription": true,
-    "title": "ヒストリア・レイス",
     "width": 941,
     "height": 1672
   },
@@ -5056,15 +5011,6 @@ window.__GALLERY_IMAGES__ = [
     "title": "胡蝶カナエ",
     "width": 941,
     "height": 1671
-  },
-  {
-    "category": "鬼滅の刃",
-    "src": "images/鬼滅の刃/雛鶴-02.png",
-    "version": "efdc365db0da",
-    "hasDescription": true,
-    "title": "雛鶴-02",
-    "width": 941,
-    "height": 1672
   },
   {
     "category": "鬼滅の刃",
