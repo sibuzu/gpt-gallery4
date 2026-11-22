@@ -1,11 +1,11 @@
 {
-  "total_categorized": 492,
+  "total_categorized": 496,
   "category_counts": {
     "Bayonetta": 4,
     "BLACK CAT": 2,
     "BLACK LAGOON": 4,
-    "BLEACH": 15,
-    "Blue Archive": 17,
+    "BLEACH": 16,
+    "Blue Archive": 18,
     "Devil May Cry": 4,
     "FAIRY TAIL": 8,
     "Fate 系列": 17,
@@ -24,7 +24,7 @@
     "うる星やつら": 5,
     "この素晴らしい世界に祝福を！": 5,
     "とある科学の超電磁砲": 3,
-    "オーバーロード": 1,
+    "オーバーロード": 2,
     "カウボーイビバップ": 2,
     "キルラキル": 3,
     "クレイモア": 5,
@@ -56,8 +56,8 @@
     "葬送のフリーレン": 5,
     "進撃の巨人": 9,
     "鐵拳": 16,
-    "鬼滅の刃": 10,
+    "鬼滅の刃": 11,
     "魔法少女まどか☆マギカ": 5
   },
-  "with_descriptions": 492
+  "with_descriptions": 496
 }

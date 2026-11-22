@@ -163,6 +163,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLEACH",
+    "src": "images/BLEACH/松本乱菊.png",
+    "version": "1023996f2d3a",
+    "hasDescription": true,
+    "title": "松本乱菊",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "BLEACH",
     "src": "images/BLEACH/毒ヶ峰リルカ.png",
     "version": "80e18ff2cc30",
     "hasDescription": true,
@@ -367,6 +376,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "陸八魔アル",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "Blue Archive",
+    "src": "images/Blue Archive/飛鳥馬トキ.png",
+    "version": "0b5090426419",
+    "hasDescription": true,
+    "title": "飛鳥馬トキ",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "Blue Archive",
@@ -1735,6 +1753,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "白井黒子",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "オーバーロード",
+    "src": "images/オーバーロード/Albedo.png",
+    "version": "05cc2604107c",
+    "hasDescription": true,
+    "title": "Albedo",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "オーバーロード",
@@ -4309,6 +4336,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "堕姫",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "鬼滅の刃",
+    "src": "images/鬼滅の刃/栗花落カナヲ.png",
+    "version": "6e2339d0625b",
+    "hasDescription": true,
+    "title": "栗花落カナヲ",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "鬼滅の刃",
