@@ -163,6 +163,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLEACH",
+    "src": "images/BLEACH/毒ヶ峰リルカ.png",
+    "version": "80e18ff2cc30",
+    "hasDescription": true,
+    "title": "毒ヶ峰リルカ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "BLEACH",
     "src": "images/BLEACH/涅ネム.png",
     "version": "12c35ab74e08",
     "hasDescription": true,
@@ -483,6 +492,15 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "アルトリア・ペンドラゴン",
     "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/イシュタル.png",
+    "version": "eca92a7b10a9",
+    "hasDescription": true,
+    "title": "イシュタル",
+    "width": 940,
     "height": 1672
   },
   {
@@ -1144,6 +1162,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Tashigi.png",
+    "version": "655ad4da0514",
+    "hasDescription": true,
+    "title": "Tashigi",
+    "width": 940,
+    "height": 1672
+  },
+  {
+    "category": "ONE PIECE",
     "src": "images/ONE PIECE/Ulti.png",
     "version": "820a67342fac",
     "hasDescription": true,
@@ -1177,6 +1204,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "アイギス",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "Persona",
+    "src": "images/Persona/エリザベス.png",
+    "version": "bcb963d1572b",
+    "hasDescription": true,
+    "title": "エリザベス",
+    "width": 940,
+    "height": 1672
   },
   {
     "category": "Persona",
@@ -1459,11 +1495,29 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "SPY×FAMILY",
+    "src": "images/SPY×FAMILY/カミラ.png",
+    "version": "1ea630dfe75a",
+    "hasDescription": true,
+    "title": "カミラ",
+    "width": 940,
+    "height": 1672
+  },
+  {
+    "category": "SPY×FAMILY",
     "src": "images/SPY×FAMILY/シルヴィア・シャーウッド.png",
     "version": "9e68b6ebdb1f",
     "hasDescription": true,
     "title": "シルヴィア・シャーウッド",
     "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "SPY×FAMILY",
+    "src": "images/SPY×FAMILY/フィオナ・フロスト.png",
+    "version": "b792276f4d12",
+    "hasDescription": true,
+    "title": "フィオナ・フロスト",
+    "width": 940,
     "height": 1672
   },
   {
@@ -1801,6 +1855,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "ソードアート・オンライン",
+    "src": "images/ソードアート・オンライン/Alice Zuberg.png",
+    "version": "194642905517",
+    "hasDescription": true,
+    "title": "Alice Zuberg",
+    "width": 940,
+    "height": 1672
+  },
+  {
+    "category": "ソードアート・オンライン",
     "src": "images/ソードアート・オンライン/Leafa.png",
     "version": "166608eca14d",
     "hasDescription": true,
@@ -2041,6 +2104,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "マウントレディ",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "僕のヒーローアカデミア",
+    "src": "images/僕のヒーローアカデミア/ミッドナイト.png",
+    "version": "be6cd0f52c10",
+    "hasDescription": true,
+    "title": "ミッドナイト",
+    "width": 940,
+    "height": 1672
   },
   {
     "category": "僕のヒーローアカデミア",
@@ -2359,6 +2431,24 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Sakura-02.png",
+    "version": "293044214096",
+    "hasDescription": true,
+    "title": "Sakura-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Sakura.png",
+    "version": "4e089943dee4",
+    "hasDescription": true,
+    "title": "Sakura",
+    "width": 940,
+    "height": 1672
+  },
+  {
+    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Scarlet.png",
     "version": "4fa2c4400205",
     "hasDescription": true,
@@ -2491,6 +2581,24 @@ window.__GALLERY_IMAGES__ = [
     "title": "フリーナ",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/マーヴィカ.png",
+    "version": "af2bf2cc2574",
+    "hasDescription": true,
+    "title": "マーヴィカ",
+    "width": 940,
+    "height": 1672
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/ムアラニ.png",
+    "version": "2cf92f5217ac",
+    "hasDescription": true,
+    "title": "ムアラニ",
+    "width": 940,
+    "height": 1672
   },
   {
     "category": "原神 Genshin Impact",
@@ -2788,6 +2896,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "フカ",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "崩壊3rd",
+    "src": "images/崩壊3rd/ブローニャ・ザイチク.png",
+    "version": "a28ef609c889",
+    "hasDescription": true,
+    "title": "ブローニャ・ザイチク",
+    "width": 940,
+    "height": 1672
   },
   {
     "category": "崩壊3rd",
@@ -3492,6 +3609,15 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "犬夜叉",
+    "src": "images/犬夜叉/神楽.png",
+    "version": "2b0ac26c1679",
+    "hasDescription": true,
+    "title": "神楽",
+    "width": 940,
+    "height": 1672
+  },
+  {
     "category": "生死格鬥",
     "src": "images/生死格鬥/Lisa Hamilton.png",
     "version": "ced7dee44e3e",
@@ -3961,6 +4087,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "鐵拳",
+    "src": "images/鐵拳/Angel.png",
+    "version": "4152eb0bbae9",
+    "hasDescription": true,
+    "title": "Angel",
+    "width": 940,
+    "height": 1672
+  },
+  {
+    "category": "鐵拳",
     "src": "images/鐵拳/Anna Williams.png",
     "version": "0476d8757bc2",
     "hasDescription": true,
@@ -4208,6 +4343,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "c576d4f02b69",
     "hasDescription": true,
     "title": "暁美ほむら",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "魔法少女まどか☆マギカ",
+    "src": "images/魔法少女まどか☆マギカ/美樹さやか.png",
+    "version": "736211a7e592",
+    "hasDescription": true,
+    "title": "美樹さやか",
     "width": 941,
     "height": 1672
   },
