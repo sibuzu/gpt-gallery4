@@ -298,6 +298,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Blue Archive",
+    "src": "images/Blue Archive/早瀬ユウカ.png",
+    "version": "78063f56a12b",
+    "hasDescription": true,
+    "title": "早瀬ユウカ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Blue Archive",
     "src": "images/Blue Archive/桐藤ナギサ.png",
     "version": "85b3d661fc24",
     "hasDescription": true,
@@ -448,6 +457,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Trish",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "FAIRY TAIL",
+    "src": "images/FAIRY TAIL/アイリーン・ベルセリオン.png",
+    "version": "d31cdf643a15",
+    "hasDescription": true,
+    "title": "アイリーン・ベルセリオン",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "FAIRY TAIL",
@@ -622,6 +640,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Fate 系列",
+    "src": "images/Fate 系列/マシュ・キリエライト.png",
+    "version": "53726fd890a7",
+    "hasDescription": true,
+    "title": "マシュ・キリエライト",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "Fate 系列",
     "src": "images/Fate 系列/メディア.png",
     "version": "71190760f534",
     "hasDescription": true,
@@ -644,6 +671,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "94da6ae3cea3",
     "hasDescription": true,
     "title": "メリュジーヌ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/宮本武蔵.png",
+    "version": "fe0f09ab152a",
+    "hasDescription": true,
+    "title": "宮本武蔵",
     "width": 941,
     "height": 1672
   },
@@ -1044,6 +1080,15 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/黒土.png",
+    "version": "ddbf0162089b",
+    "hasDescription": true,
+    "title": "黒土",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "NieR",
     "src": "images/NieR/2B.png",
     "version": "dc9e23224e44",
@@ -1148,6 +1193,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "64327cdedcf4",
     "hasDescription": true,
     "title": "Charlotte Smoothie",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Hina.png",
+    "version": "8fed09e024ce",
+    "hasDescription": true,
+    "title": "Hina",
     "width": 941,
     "height": 1672
   },
@@ -1809,6 +1863,15 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "とある科学の超電磁砲",
+    "src": "images/とある科学の超電磁砲/食蜂操祈.png",
+    "version": "8dd13c179970",
+    "hasDescription": true,
+    "title": "食蜂操祈",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "オーバーロード",
     "src": "images/オーバーロード/Albedo.png",
     "version": "05cc2604107c",
@@ -2413,6 +2476,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Blanc.png",
+    "version": "593743e508bb",
+    "hasDescription": true,
+    "title": "Blanc",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Cinderella.png",
     "version": "ba686a2ecb73",
     "hasDescription": true,
@@ -2935,6 +3007,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "呪術廻戦",
+    "src": "images/呪術廻戦/家入硝子.png",
+    "version": "1e31ba539682",
+    "hasDescription": true,
+    "title": "家入硝子",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "呪術廻戦",
     "src": "images/呪術廻戦/庵歌姫.png",
     "version": "dbcf5af44a2e",
     "hasDescription": true,
@@ -3012,6 +3093,15 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "テレサ・アポカリプス",
     "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "崩壊3rd",
+    "src": "images/崩壊3rd/デュランダル.png",
+    "version": "43d5d3955ab9",
+    "hasDescription": true,
+    "title": "デュランダル",
+    "width": 941,
     "height": 1670
   },
   {
@@ -3164,6 +3254,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "963f53fea482",
     "hasDescription": true,
     "title": "停雲",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/姫子.png",
+    "version": "7b5a9526ebd7",
+    "hasDescription": true,
+    "title": "姫子",
     "width": 941,
     "height": 1672
   },
@@ -3805,6 +3904,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Christie",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "生死格鬥",
+    "src": "images/生死格鬥/Helena Douglas.png",
+    "version": "8b8d9909aade",
+    "hasDescription": true,
+    "title": "Helena Douglas",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "生死格鬥",
