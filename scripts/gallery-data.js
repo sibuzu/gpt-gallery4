@@ -172,6 +172,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLEACH",
+    "src": "images/BLEACH/草鹿やちる.png",
+    "version": "d3a5b7dee087",
+    "hasDescription": true,
+    "title": "草鹿やちる",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "BLEACH",
     "src": "images/BLEACH/虎徹勇音.png",
     "version": "aa403fc3e302",
     "hasDescription": true,
@@ -369,6 +378,15 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "Devil May Cry",
+    "src": "images/Devil May Cry/Trish.png",
+    "version": "22145ed1961e",
+    "hasDescription": true,
+    "title": "Trish",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "FAIRY TAIL",
     "src": "images/FAIRY TAIL/ウェンディ・マーベル.png",
     "version": "0ce2536e33ea",
@@ -536,6 +554,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "94da6ae3cea3",
     "hasDescription": true,
     "title": "メリュジーヌ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/沖田総司.png",
+    "version": "b0cd57a0a42d",
+    "hasDescription": true,
+    "title": "沖田総司",
     "width": 941,
     "height": 1672
   },
@@ -763,6 +790,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "草薙素子",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "Metroid",
+    "src": "images/Metroid/Dark Samus.png",
+    "version": "39b06ad24515",
+    "hasDescription": true,
+    "title": "Dark Samus",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "Metroid",
@@ -1036,6 +1072,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Viola.png",
+    "version": "1d5350a58aad",
+    "hasDescription": true,
+    "title": "Viola",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "ONE PIECE",
     "src": "images/ONE PIECE/Yamato.png",
     "version": "b1d3397c4035",
     "hasDescription": true,
@@ -1085,6 +1130,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "a96c92cff82d",
     "hasDescription": true,
     "title": "岳羽ゆかり",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Persona",
+    "src": "images/Persona/新島真.png",
+    "version": "e0713430d4b6",
+    "hasDescription": true,
+    "title": "新島真",
     "width": 942,
     "height": 1670
   },
@@ -1180,6 +1234,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Resident Evil",
+    "src": "images/Resident Evil/Alcina Dimitrescu.png",
+    "version": "0eb54ed34785",
+    "hasDescription": true,
+    "title": "Alcina Dimitrescu",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "Resident Evil",
     "src": "images/Resident Evil/Ashley Graham.png",
     "version": "08ee43b12084",
     "hasDescription": true,
@@ -1203,6 +1266,15 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "Helena Harper",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "Resident Evil",
+    "src": "images/Resident Evil/Ingrid Hunnigan.png",
+    "version": "33f8ba94766b",
+    "hasDescription": true,
+    "title": "Ingrid Hunnigan",
+    "width": 942,
     "height": 1670
   },
   {
@@ -1432,6 +1504,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "とある科学の超電磁砲",
+    "src": "images/とある科学の超電磁砲/御坂美琴.png",
+    "version": "d2bf711c41bf",
+    "hasDescription": true,
+    "title": "御坂美琴",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "とある科学の超電磁砲",
     "src": "images/とある科学の超電磁砲/白井黒子.png",
     "version": "d8ca83c9f3fe",
     "hasDescription": true,
@@ -1490,6 +1571,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "0fa515893f59",
     "hasDescription": true,
     "title": "鬼龍院皐月",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "クレイモア",
+    "src": "images/クレイモア/Clare.png",
+    "version": "7208d3887bf2",
+    "hasDescription": true,
+    "title": "Clare",
     "width": 941,
     "height": 1670
   },
@@ -1591,6 +1681,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "紺野木綿季",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "ソードアート・オンライン",
+    "src": "images/ソードアート・オンライン/結城明日奈.png",
+    "version": "ecda9d27bb59",
+    "hasDescription": true,
+    "title": "結城明日奈",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "ダンジョン飯",
@@ -1855,6 +1954,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "劍魂",
+    "src": "images/劍魂/Ivy Valentine.png",
+    "version": "1bd61ec470cc",
+    "hasDescription": true,
+    "title": "Ivy Valentine",
+    "width": 942,
+    "height": 1669
+  },
+  {
+    "category": "劍魂",
     "src": "images/劍魂/Pyrrha Alexandra.png",
     "version": "6aed340ae3c8",
     "hasDescription": true,
@@ -1906,6 +2014,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Tira",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "劍魂",
+    "src": "images/劍魂/Viola.png",
+    "version": "b6827be47cd9",
+    "hasDescription": true,
+    "title": "Viola",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "劍魂",
@@ -2239,6 +2356,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "宵宮",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/珊瑚宮心海.png",
+    "version": "c084a69069a4",
+    "hasDescription": true,
+    "title": "珊瑚宮心海",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "原神 Genshin Impact",
@@ -2988,6 +3114,15 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "新世紀エヴァンゲリオン",
+    "src": "images/新世紀エヴァンゲリオン/赤木リツコ.png",
+    "version": "1ea0bfe3984a",
+    "hasDescription": true,
+    "title": "赤木リツコ",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "機動戦士ガンダムSEED",
     "src": "images/機動戦士ガンダムSEED/Cagalli Yula Athha.png",
     "version": "c124322d78eb",
@@ -3241,6 +3376,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "真人快打",
+    "src": "images/真人快打/D'Vorah.png",
+    "version": "72c232a3840f",
+    "hasDescription": true,
+    "title": "D'Vorah",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "真人快打",
     "src": "images/真人快打/Frost.png",
     "version": "bd8d33f6ee76",
     "hasDescription": true,
@@ -3457,6 +3601,24 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "進撃の巨人",
+    "src": "images/進撃の巨人/ガビ・ブラウン.png",
+    "version": "f2b694d4a0e9",
+    "hasDescription": true,
+    "title": "ガビ・ブラウン",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "進撃の巨人",
+    "src": "images/進撃の巨人/サシャ・ブラウス.png",
+    "version": "b1ff17dc983b",
+    "hasDescription": true,
+    "title": "サシャ・ブラウス",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "進撃の巨人",
     "src": "images/進撃の巨人/ピーク・フィンガー.png",
     "version": "ae48e6d6b462",
     "hasDescription": true,
@@ -3499,6 +3661,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "リコ・ブレツェンスカ",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "鐵拳",
+    "src": "images/鐵拳/Anna Williams.png",
+    "version": "0476d8757bc2",
+    "hasDescription": true,
+    "title": "Anna Williams",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "鐵拳",
@@ -3696,6 +3867,15 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "須磨",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "鬼滅の刃",
+    "src": "images/鬼滅の刃/鳴女.png",
+    "version": "c4652084b007",
+    "hasDescription": true,
+    "title": "鳴女",
+    "width": 942,
     "height": 1670
   },
   {
