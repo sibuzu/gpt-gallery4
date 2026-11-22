@@ -3061,6 +3061,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "快打旋風",
+    "src": "images/快打旋風/Lily Hawk.png",
+    "version": "7281138a2e52",
+    "hasDescription": true,
+    "title": "Lily Hawk",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "快打旋風",
     "src": "images/快打旋風/Lucia Morgan.png",
     "version": "1b923ecf915b",
     "hasDescription": true,
