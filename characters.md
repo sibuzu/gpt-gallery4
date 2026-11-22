@@ -588,13 +588,10 @@
 
 ### **The Witcher**
 
-1. Yennefer of Vengerberg
-2. Triss Merigold
-3. Ciri
-4. Keira Metz
-5. Philippa Eilhart
-6. Shani
-7. Fringilla Vigo
+1. Triss Merigold
+2. Philippa Eilhart
+3. Shani
+4. Fringilla Vigo
 
 ## **四、手機遊戲／二次元遊戲女性角色**
 
