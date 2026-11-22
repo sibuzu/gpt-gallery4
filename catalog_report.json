@@ -1,5 +1,5 @@
 {
-  "total_categorized": 496,
+  "total_categorized": 506,
   "category_counts": {
     "Bayonetta": 4,
     "BLACK CAT": 2,
@@ -7,7 +7,7 @@
     "BLEACH": 16,
     "Blue Archive": 18,
     "Devil May Cry": 4,
-    "FAIRY TAIL": 8,
+    "FAIRY TAIL": 9,
     "Fate 系列": 17,
     "FINAL FANTASY": 24,
     "GHOST IN THE SHELL": 1,
@@ -15,7 +15,7 @@
     "NARUTO／BORUTO": 13,
     "NieR": 6,
     "ONE PIECE": 18,
-    "Persona": 13,
+    "Persona": 14,
     "Re:ゼロから始める異世界生活": 5,
     "Resident Evil": 15,
     "SPY×FAMILY": 5,
@@ -45,19 +45,19 @@
     "崩壊：スターレイル": 20,
     "快打旋風": 17,
     "拳皇": 20,
-    "新世紀エヴァンゲリオン": 5,
-    "機動戦士ガンダムSEED": 3,
+    "新世紀エヴァンゲリオン": 6,
+    "機動戦士ガンダムSEED": 4,
     "灼眼のシャナ": 3,
     "無職転生": 2,
     "犬夜叉": 7,
-    "生死格鬥": 15,
+    "生死格鬥": 16,
     "真人快打": 14,
-    "美少女戦士セーラームーン": 10,
+    "美少女戦士セーラームーン": 12,
     "葬送のフリーレン": 5,
-    "進撃の巨人": 9,
+    "進撃の巨人": 12,
     "鐵拳": 16,
     "鬼滅の刃": 11,
     "魔法少女まどか☆マギカ": 5
   },
-  "with_descriptions": 496
+  "with_descriptions": 506
 }

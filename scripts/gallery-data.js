@@ -469,6 +469,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FAIRY TAIL",
+    "src": "images/FAIRY TAIL/ジュビア・ロクサー.png",
+    "version": "62983b5add0f",
+    "hasDescription": true,
+    "title": "ジュビア・ロクサー",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "FAIRY TAIL",
     "src": "images/FAIRY TAIL/ブランディッシュ・μ.png",
     "version": "289272736347",
     "hasDescription": true,
@@ -1265,6 +1274,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "34c4f3ed4b75",
     "hasDescription": true,
     "title": "佐倉双葉",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Persona",
+    "src": "images/Persona/天城雪子.png",
+    "version": "cc490eecbd12",
+    "hasDescription": true,
+    "title": "天城雪子",
     "width": 941,
     "height": 1672
   },
@@ -3520,6 +3538,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "新世紀エヴァンゲリオン",
+    "src": "images/新世紀エヴァンゲリオン/伊吹マヤ.png",
+    "version": "9000381d7f37",
+    "hasDescription": true,
+    "title": "伊吹マヤ",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "新世紀エヴァンゲリオン",
     "src": "images/新世紀エヴァンゲリオン/式波・アスカ・ラングレー.png",
     "version": "7e12fb48a4ee",
     "hasDescription": true,
@@ -3580,6 +3607,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Lacus Clyne",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "機動戦士ガンダムSEED",
+    "src": "images/機動戦士ガンダムSEED/Lunamaria Hawke.png",
+    "version": "cbdf5724d208",
+    "hasDescription": true,
+    "title": "Lunamaria Hawke",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "機動戦士ガンダムSEED",
@@ -3697,6 +3733,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "神無",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "生死格鬥",
+    "src": "images/生死格鬥/Christie.png",
+    "version": "b5ec60f20529",
+    "hasDescription": true,
+    "title": "Christie",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "生死格鬥",
@@ -3979,6 +4024,24 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "美少女戦士セーラームーン",
+    "src": "images/美少女戦士セーラームーン/ブラック・レディ-02.png",
+    "version": "9a5bec327f6e",
+    "hasDescription": true,
+    "title": "ブラック・レディ-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "美少女戦士セーラームーン",
+    "src": "images/美少女戦士セーラームーン/ブラック・レディ.png",
+    "version": "62997e58a27b",
+    "hasDescription": true,
+    "title": "ブラック・レディ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "美少女戦士セーラームーン",
     "src": "images/美少女戦士セーラームーン/冥王せつな.png",
     "version": "fbc468f17936",
     "hasDescription": true,
@@ -4127,6 +4190,33 @@ window.__GALLERY_IMAGES__ = [
     "version": "11019fb605db",
     "hasDescription": true,
     "title": "ハンジ・ゾエ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "進撃の巨人",
+    "src": "images/進撃の巨人/ヒストリア・レイス-02.png",
+    "version": "cb6876169694",
+    "hasDescription": true,
+    "title": "ヒストリア・レイス-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "進撃の巨人",
+    "src": "images/進撃の巨人/ヒストリア・レイス-03.png",
+    "version": "e5e71e6263de",
+    "hasDescription": true,
+    "title": "ヒストリア・レイス-03",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "進撃の巨人",
+    "src": "images/進撃の巨人/ヒストリア・レイス.png",
+    "version": "4f4c049f171f",
+    "hasDescription": true,
+    "title": "ヒストリア・レイス",
     "width": 941,
     "height": 1672
   },
