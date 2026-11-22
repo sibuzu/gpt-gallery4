@@ -532,6 +532,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FAIRY TAIL",
+    "src": "images/FAIRY TAIL/ユキノ・アグリア.png",
+    "version": "d5c7ace60f2b",
+    "hasDescription": true,
+    "title": "ユキノ・アグリア",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "FAIRY TAIL",
     "src": "images/FAIRY TAIL/ルーシィ・ハートフィリア.png",
     "version": "ffc341659aa7",
     "hasDescription": true,
@@ -673,6 +682,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "メリュジーヌ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "Fate 系列",
+    "src": "images/Fate 系列/モルガン.png",
+    "version": "9c97e61165b4",
+    "hasDescription": true,
+    "title": "モルガン",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "Fate 系列",
@@ -1105,6 +1123,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "A2-02",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "NieR",
+    "src": "images/NieR/A2-03.png",
+    "version": "59701563ef14",
+    "hasDescription": true,
+    "title": "A2-03",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "NieR",
@@ -1899,6 +1926,15 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "オーバーロード",
+    "src": "images/オーバーロード/Shalltear Bloodfallen.png",
+    "version": "94668775bad0",
+    "hasDescription": true,
+    "title": "Shalltear Bloodfallen",
+    "width": 941,
+    "height": 1670
+  },
+  {
     "category": "カウボーイビバップ",
     "src": "images/カウボーイビバップ/Faye Valentine.png",
     "version": "f904a61f8a2b",
@@ -2088,6 +2124,15 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "ダンジョン飯",
+    "src": "images/ダンジョン飯/Marcille Donato.png",
+    "version": "3bee90f3248c",
+    "hasDescription": true,
+    "title": "Marcille Donato",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "ダンダダン",
     "src": "images/ダンダダン/ターボババア.png",
     "version": "647f795de612",
@@ -2237,6 +2282,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "d9d68abc904f",
     "hasDescription": true,
     "title": "天道かすみ",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "亂馬½",
+    "src": "images/亂馬½/天道なびき.png",
+    "version": "79c54576e569",
+    "hasDescription": true,
+    "title": "天道なびき",
     "width": 942,
     "height": 1670
   },
@@ -3214,6 +3268,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/ジェイド.png",
+    "version": "ac46c45f08a4",
+    "hasDescription": true,
+    "title": "ジェイド",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "崩壊：スターレイル",
     "src": "images/崩壊：スターレイル/ゼーレ.png",
     "version": "286ebf820737",
     "hasDescription": true,
@@ -3844,6 +3907,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "無職転生",
+    "src": "images/無職転生/Eris Boreas Greyrat.png",
+    "version": "8710493aa4df",
+    "hasDescription": true,
+    "title": "Eris Boreas Greyrat",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "無職転生",
     "src": "images/無職転生/Roxy Migurdia.png",
     "version": "8c5707388c2d",
     "hasDescription": true,
@@ -4129,6 +4201,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Frost",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "真人快打",
+    "src": "images/真人快打/Jacqui Briggs.png",
+    "version": "db34e7248a58",
+    "hasDescription": true,
+    "title": "Jacqui Briggs",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "真人快打",
@@ -4483,6 +4564,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "鐵拳",
+    "src": "images/鐵拳/Alisa Bosconovitch.png",
+    "version": "2ec3a2b7101d",
+    "hasDescription": true,
+    "title": "Alisa Bosconovitch",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "鐵拳",
     "src": "images/鐵拳/Angel.png",
     "version": "4152eb0bbae9",
     "hasDescription": true,
@@ -4496,6 +4586,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "0476d8757bc2",
     "hasDescription": true,
     "title": "Anna Williams",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "鐵拳",
+    "src": "images/鐵拳/Azucena.png",
+    "version": "003500f65d67",
+    "hasDescription": true,
+    "title": "Azucena",
     "width": 941,
     "height": 1672
   },
@@ -4777,6 +4876,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "暁美ほむら",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "魔法少女まどか☆マギカ",
+    "src": "images/魔法少女まどか☆マギカ/百江なぎさ.png",
+    "version": "af2e2f2c4d2b",
+    "hasDescription": true,
+    "title": "百江なぎさ",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "魔法少女まどか☆マギカ",
