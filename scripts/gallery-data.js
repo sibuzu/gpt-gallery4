@@ -37,6 +37,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLACK CAT",
+    "src": "images/BLACK CAT/Eve.png",
+    "version": "a759cbf63194",
+    "hasDescription": true,
+    "title": "Eve",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "BLACK CAT",
     "src": "images/BLACK CAT/Rinslet Walker.png",
     "version": "b47bbf301c97",
     "hasDescription": true,
@@ -325,6 +334,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Blue Archive",
+    "src": "images/Blue Archive/狐坂ワカモ.png",
+    "version": "21eb70f2eb61",
+    "hasDescription": true,
+    "title": "狐坂ワカモ",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "Blue Archive",
     "src": "images/Blue Archive/生塩ノア.png",
     "version": "c6a3411c14b1",
     "hasDescription": true,
@@ -529,6 +547,24 @@ window.__GALLERY_IMAGES__ = [
     "title": "ミラジェーン・ストラウス",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "FAIRY TAIL",
+    "src": "images/FAIRY TAIL/メイビス・ヴァーミリオン-02.png",
+    "version": "8f64ba0a90e3",
+    "hasDescription": true,
+    "title": "メイビス・ヴァーミリオン-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "FAIRY TAIL",
+    "src": "images/FAIRY TAIL/メイビス・ヴァーミリオン.png",
+    "version": "80be2a6a1afe",
+    "hasDescription": true,
+    "title": "メイビス・ヴァーミリオン",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "FAIRY TAIL",
@@ -901,6 +937,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Selphie Tilmitt.png",
+    "version": "eb7d286b7a8a",
+    "hasDescription": true,
+    "title": "Selphie Tilmitt",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "FINAL FANTASY",
     "src": "images/FINAL FANTASY/Serah Farron.png",
     "version": "1b94ecf83c41",
     "hasDescription": true,
@@ -988,6 +1033,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "うずまきクシナ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/うずまきヒマワリ.png",
+    "version": "d463598827fd",
+    "hasDescription": true,
+    "title": "うずまきヒマワリ",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "NARUTO／BORUTO",
@@ -1108,6 +1162,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/香燐.png",
+    "version": "ff0af03fb501",
+    "hasDescription": true,
+    "title": "香燐",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "NARUTO／BORUTO",
     "src": "images/NARUTO／BORUTO/黒土.png",
     "version": "ddbf0162089b",
     "hasDescription": true,
@@ -1213,6 +1276,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Boa Hancock",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Carrot.png",
+    "version": "17e1199896ef",
+    "hasDescription": true,
+    "title": "Carrot",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "ONE PIECE",
@@ -2044,6 +2116,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "コードギアス",
+    "src": "images/コードギアス/C.C..png",
+    "version": "acc8aaa00ced",
+    "hasDescription": true,
+    "title": "C.C.",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "コードギアス",
     "src": "images/コードギアス/Cornelia li Britannia.png",
     "version": "12a42b5b7c80",
     "hasDescription": true,
@@ -2151,6 +2232,15 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "ダンジョン飯",
+    "src": "images/ダンジョン飯/イヅツミ.png",
+    "version": "4a4c73f51172",
+    "hasDescription": true,
+    "title": "イヅツミ",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "ダンダダン",
     "src": "images/ダンダダン/ターボババア.png",
     "version": "647f795de612",
@@ -2158,6 +2248,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "ターボババア",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "ダンダダン",
+    "src": "images/ダンダダン/白鳥愛羅.png",
+    "version": "4baff0b93a40",
+    "hasDescription": true,
+    "title": "白鳥愛羅",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "ダンダダン",
@@ -2212,6 +2311,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "ヨル",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "チェンソーマン",
+    "src": "images/チェンソーマン/レゼ.png",
+    "version": "157329b21f70",
+    "hasDescription": true,
+    "title": "レゼ",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "チェンソーマン",
@@ -2449,6 +2557,24 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "僕のヒーローアカデミア",
+    "src": "images/僕のヒーローアカデミア/耳郎響香-02.png",
+    "version": "eaf98194023a",
+    "hasDescription": true,
+    "title": "耳郎響香-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "僕のヒーローアカデミア",
+    "src": "images/僕のヒーローアカデミア/耳郎響香.png",
+    "version": "cb13bdae3fb7",
+    "hasDescription": true,
+    "title": "耳郎響香",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "僕のヒーローアカデミア",
     "src": "images/僕のヒーローアカデミア/芦戸三奈.png",
     "version": "448b61f37f5c",
     "hasDescription": true,
@@ -2476,10 +2602,28 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "劍魂",
+    "src": "images/劍魂/Amy Sorel.png",
+    "version": "dd2bfe2e0059",
+    "hasDescription": true,
+    "title": "Amy Sorel",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "劍魂",
     "src": "images/劍魂/Cassandra Alexandra.png",
     "version": "33cda007d322",
     "hasDescription": true,
     "title": "Cassandra Alexandra",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "劍魂",
+    "src": "images/劍魂/Hilde von Krone.png",
+    "version": "c0287f47f550",
+    "hasDescription": true,
+    "title": "Hilde von Krone",
     "width": 941,
     "height": 1671
   },
@@ -2544,6 +2688,15 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "Taki",
     "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "劍魂",
+    "src": "images/劍魂/Talim.png",
+    "version": "a0cf84eb8a03",
+    "hasDescription": true,
+    "title": "Talim",
+    "width": 942,
     "height": 1670
   },
   {
@@ -2716,6 +2869,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Rapi",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Rapunzel.png",
+    "version": "03ac6b00f473",
+    "hasDescription": true,
+    "title": "Rapunzel",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "勝利の女神：NIKKE",
@@ -3101,6 +3263,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "ec695b5c8aba",
     "hasDescription": true,
     "title": "毛利蘭",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "名探偵コナン",
+    "src": "images/名探偵コナン/灰原哀.png",
+    "version": "26087ce2db94",
+    "hasDescription": true,
+    "title": "灰原哀",
     "width": 941,
     "height": 1671
   },
@@ -3898,6 +4069,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "新世紀エヴァンゲリオン",
+    "src": "images/新世紀エヴァンゲリオン/惣流・アスカ・ラングレー.png",
+    "version": "79675d28f7a4",
+    "hasDescription": true,
+    "title": "惣流・アスカ・ラングレー",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "新世紀エヴァンゲリオン",
     "src": "images/新世紀エヴァンゲリオン/真希波・マリ・イラストリアス.png",
     "version": "5d55f3b2f6fa",
     "hasDescription": true,
@@ -3913,6 +4093,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "碇ユイ",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "新世紀エヴァンゲリオン",
+    "src": "images/新世紀エヴァンゲリオン/綾波レイ.png",
+    "version": "aa609c9f0523",
+    "hasDescription": true,
+    "title": "綾波レイ",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "新世紀エヴァンゲリオン",
@@ -4159,6 +4348,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "生死格鬥",
+    "src": "images/生死格鬥/あやね.png",
+    "version": "4b37c2e35e9d",
+    "hasDescription": true,
+    "title": "あやね",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "生死格鬥",
     "src": "images/生死格鬥/かすみ.png",
     "version": "cba11bb9a3b1",
     "hasDescription": true,
@@ -4300,6 +4498,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Jacqui Briggs",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "真人快打",
+    "src": "images/真人快打/Jade.png",
+    "version": "f2a08762aa9c",
+    "hasDescription": true,
+    "title": "Jade",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "真人快打",
