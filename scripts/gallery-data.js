@@ -433,6 +433,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FAIRY TAIL",
+    "src": "images/FAIRY TAIL/ミラジェーン・ストラウス.png",
+    "version": "a175e4f56cf9",
+    "hasDescription": true,
+    "title": "ミラジェーン・ストラウス",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "FAIRY TAIL",
     "src": "images/FAIRY TAIL/ルーシィ・ハートフィリア.png",
     "version": "ffc341659aa7",
     "hasDescription": true,
@@ -826,6 +835,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "うちはサラダ",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/みたらしアンコ.png",
+    "version": "41e968e112bf",
+    "hasDescription": true,
+    "title": "みたらしアンコ",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "NARUTO／BORUTO",
@@ -1279,6 +1297,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Resident Evil",
+    "src": "images/Resident Evil/Lady Bela Dimitrescu.png",
+    "version": "81d9a170b5f2",
+    "hasDescription": true,
+    "title": "Lady Bela Dimitrescu",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Resident Evil",
     "src": "images/Resident Evil/Lady Cassandra Dimitrescu.png",
     "version": "66ba3a63943c",
     "hasDescription": true,
@@ -1292,6 +1319,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "5c4d8f59efb0",
     "hasDescription": true,
     "title": "Lady Daniela Dimitrescu",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "Resident Evil",
+    "src": "images/Resident Evil/Mia Winters.png",
+    "version": "590ae96b0b7b",
+    "hasDescription": true,
+    "title": "Mia Winters",
     "width": 941,
     "height": 1672
   },
@@ -1656,6 +1692,15 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "シティーハンター",
+    "src": "images/シティーハンター/野上冴子.png",
+    "version": "15d6f312f9fa",
+    "hasDescription": true,
+    "title": "野上冴子",
+    "width": 942,
+    "height": 1670
+  },
+  {
     "category": "ソードアート・オンライン",
     "src": "images/ソードアート・オンライン/Leafa.png",
     "version": "166608eca14d",
@@ -1963,6 +2008,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "劍魂",
+    "src": "images/劍魂/Natsu.png",
+    "version": "d50be6ef22bb",
+    "hasDescription": true,
+    "title": "Natsu",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "劍魂",
     "src": "images/劍魂/Pyrrha Alexandra.png",
     "version": "6aed340ae3c8",
     "hasDescription": true,
@@ -2188,6 +2242,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Viper.png",
+    "version": "3516643d716a",
+    "hasDescription": true,
+    "title": "Viper",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Volume.png",
     "version": "5a7a75a90064",
     "hasDescription": true,
@@ -2210,6 +2273,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "26cb7b038177",
     "hasDescription": true,
     "title": "キャンディス",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/クロリンデ.png",
+    "version": "d14458ec4100",
+    "hasDescription": true,
+    "title": "クロリンデ",
     "width": 941,
     "height": 1672
   },
@@ -3186,6 +3258,15 @@ window.__GALLERY_IMAGES__ = [
     "height": 1670
   },
   {
+    "category": "無職転生",
+    "src": "images/無職転生/Sylphiette.png",
+    "version": "a4996e6bd100",
+    "hasDescription": true,
+    "title": "Sylphiette",
+    "width": 941,
+    "height": 1671
+  },
+  {
     "category": "犬夜叉",
     "src": "images/犬夜叉/りん.png",
     "version": "6d5dda5fb5b8",
@@ -3209,6 +3290,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "e08381d54935",
     "hasDescription": true,
     "title": "桔梗",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "犬夜叉",
+    "src": "images/犬夜叉/椿.png",
+    "version": "60b3da56cce7",
+    "hasDescription": true,
+    "title": "椿",
     "width": 941,
     "height": 1672
   },
