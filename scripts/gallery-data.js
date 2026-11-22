@@ -2395,24 +2395,6 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "亂馬½",
-    "src": "images/亂馬½/天道なびき-03.png",
-    "version": "fb17113ed9d8",
-    "hasDescription": true,
-    "title": "天道なびき-03",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "亂馬½",
-    "src": "images/亂馬½/天道なびき.png",
-    "version": "79c54576e569",
-    "hasDescription": true,
-    "title": "天道なびき",
-    "width": 942,
-    "height": 1670
-  },
-  {
-    "category": "亂馬½",
     "src": "images/亂馬½/早乙女のどか.png",
     "version": "7fd1080c25d1",
     "hasDescription": true,
