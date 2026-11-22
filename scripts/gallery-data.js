@@ -2926,6 +2926,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "原神 Genshin Impact",
+    "src": "images/原神 Genshin Impact/七七.png",
+    "version": "0fc11fae74cd",
+    "hasDescription": true,
+    "title": "七七",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "原神 Genshin Impact",
     "src": "images/原神 Genshin Impact/八重神子.png",
     "version": "786cb588f1c5",
     "hasDescription": true,
