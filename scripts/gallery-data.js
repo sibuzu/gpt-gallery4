@@ -559,15 +559,6 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FAIRY TAIL",
-    "src": "images/FAIRY TAIL/メイビス・ヴァーミリオン.png",
-    "version": "80be2a6a1afe",
-    "hasDescription": true,
-    "title": "メイビス・ヴァーミリオン",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "FAIRY TAIL",
     "src": "images/FAIRY TAIL/ユキノ・アグリア.png",
     "version": "d5c7ace60f2b",
     "hasDescription": true,
