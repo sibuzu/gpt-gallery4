@@ -127,6 +127,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLEACH",
+    "src": "images/BLEACH/卯ノ花烈.png",
+    "version": "cf90660548f9",
+    "hasDescription": true,
+    "title": "卯ノ花烈",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "BLEACH",
     "src": "images/BLEACH/四楓院夜一.png",
     "version": "3deb428b266e",
     "hasDescription": true,
@@ -703,6 +712,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Lulu.png",
+    "version": "12b455b12b9c",
+    "hasDescription": true,
+    "title": "Lulu",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "FINAL FANTASY",
     "src": "images/FINAL FANTASY/Paine.png",
     "version": "3dec0d8781f3",
     "hasDescription": true,
@@ -1045,6 +1063,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Koala.png",
+    "version": "1c0f4371e178",
+    "hasDescription": true,
+    "title": "Koala",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "ONE PIECE",
     "src": "images/ONE PIECE/Monet.png",
     "version": "a95df2375da7",
     "hasDescription": true,
@@ -1177,6 +1204,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "奥村春",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "Persona",
+    "src": "images/Persona/山岸風花.png",
+    "version": "d71bff88ac07",
+    "hasDescription": true,
+    "title": "山岸風花",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "Persona",
@@ -1339,6 +1375,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Ingrid Hunnigan",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "Resident Evil",
+    "src": "images/Resident Evil/Jill Valentine.png",
+    "version": "ff7b32d351c9",
+    "hasDescription": true,
+    "title": "Jill Valentine",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "Resident Evil",
@@ -2323,6 +2368,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Snow White.png",
+    "version": "ece8a24204f7",
+    "hasDescription": true,
+    "title": "Snow White",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "勝利の女神：NIKKE",
     "src": "images/勝利の女神：NIKKE/Viper.png",
     "version": "3516643d716a",
     "hasDescription": true,
@@ -2993,6 +3047,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "618ac82bd05b",
     "hasDescription": true,
     "title": "Kimberly Jackson",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "快打旋風",
+    "src": "images/快打旋風/Laura Matsuda.png",
+    "version": "6b934f403e15",
+    "hasDescription": true,
+    "title": "Laura Matsuda",
     "width": 941,
     "height": 1672
   },
@@ -3832,6 +3895,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "サシャ・ブラウス",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "進撃の巨人",
+    "src": "images/進撃の巨人/ハンジ・ゾエ.png",
+    "version": "11019fb605db",
+    "hasDescription": true,
+    "title": "ハンジ・ゾエ",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "進撃の巨人",
