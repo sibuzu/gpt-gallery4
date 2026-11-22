@@ -190,6 +190,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLEACH",
+    "src": "images/BLEACH/砕蜂.png",
+    "version": "8745d927a286",
+    "hasDescription": true,
+    "title": "砕蜂",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "BLEACH",
     "src": "images/BLEACH/草鹿やちる.png",
     "version": "d3a5b7dee087",
     "hasDescription": true,
@@ -671,6 +680,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "52a0e85b1cc8",
     "hasDescription": true,
     "title": "Celes Chere",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "FINAL FANTASY",
+    "src": "images/FINAL FANTASY/Fang.png",
+    "version": "7d009964b68e",
+    "hasDescription": true,
+    "title": "Fang",
     "width": 941,
     "height": 1672
   },
@@ -1528,6 +1546,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "ベッキー・ブラックベル",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "SPY×FAMILY",
+    "src": "images/SPY×FAMILY/ヨル・フォージャー.png",
+    "version": "0bed7dbe2851",
+    "hasDescription": true,
+    "title": "ヨル・フォージャー",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "The Witcher",
@@ -3106,6 +3133,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/青雀.png",
+    "version": "b000ab2f1490",
+    "hasDescription": true,
+    "title": "青雀",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "崩壊：スターレイル",
     "src": "images/崩壊：スターレイル/飛霄.png",
     "version": "af9f303f80ee",
     "hasDescription": true,
@@ -3155,6 +3191,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "86e99372c640",
     "hasDescription": true,
     "title": "Ibuki",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "快打旋風",
+    "src": "images/快打旋風/Juri Han.png",
+    "version": "e8d6dcec97d6",
+    "hasDescription": true,
+    "title": "Juri Han",
     "width": 941,
     "height": 1672
   },
@@ -3618,6 +3663,15 @@ window.__GALLERY_IMAGES__ = [
     "height": 1672
   },
   {
+    "category": "犬夜叉",
+    "src": "images/犬夜叉/神無.png",
+    "version": "7c6bcd55a0a4",
+    "hasDescription": true,
+    "title": "神無",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "生死格鬥",
     "src": "images/生死格鬥/Lisa Hamilton.png",
     "version": "ced7dee44e3e",
@@ -3841,6 +3895,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Sareena",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "真人快打",
+    "src": "images/真人快打/Sindel.png",
+    "version": "1e000a9941dd",
+    "hasDescription": true,
+    "title": "Sindel",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "真人快打",
