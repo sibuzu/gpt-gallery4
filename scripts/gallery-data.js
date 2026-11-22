@@ -650,11 +650,11 @@ window.__GALLERY_IMAGES__ = [
   {
     "category": "Fate 系列",
     "src": "images/Fate 系列/ジャンヌ・ダルク〔オルタ〕.png",
-    "version": "fb1efb466f79",
+    "version": "72bc2af538eb",
     "hasDescription": true,
     "title": "ジャンヌ・ダルク〔オルタ〕",
-    "width": 942,
-    "height": 1670
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "Fate 系列",
