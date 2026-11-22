@@ -883,6 +883,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/山中いの.png",
+    "version": "cdd418b07f97",
+    "hasDescription": true,
+    "title": "山中いの",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "NARUTO／BORUTO",
     "src": "images/NARUTO／BORUTO/日向ハナビ.png",
     "version": "f7f06580ea41",
     "hasDescription": true,
@@ -907,6 +916,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "春野サクラ",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/照美メイ.png",
+    "version": "1e42828b1f0e",
+    "hasDescription": true,
+    "title": "照美メイ",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "NARUTO／BORUTO",
@@ -1024,6 +1042,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Monet",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "ONE PIECE",
+    "src": "images/ONE PIECE/Nami.png",
+    "version": "3777c71c1028",
+    "hasDescription": true,
+    "title": "Nami",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "ONE PIECE",
@@ -1963,6 +1990,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "僕のヒーローアカデミア",
+    "src": "images/僕のヒーローアカデミア/波動ねじれ.png",
+    "version": "9b73efdf7acf",
+    "hasDescription": true,
+    "title": "波動ねじれ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "僕のヒーローアカデミア",
     "src": "images/僕のヒーローアカデミア/発目明.png",
     "version": "5b5c3a40c578",
     "hasDescription": true,
@@ -1996,6 +2032,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "麗日お茶子",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "劍魂",
+    "src": "images/劍魂/Cassandra Alexandra.png",
+    "version": "33cda007d322",
+    "hasDescription": true,
+    "title": "Cassandra Alexandra",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "劍魂",
@@ -2656,6 +2701,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "崩壊3rd",
+    "src": "images/崩壊3rd/メビウス.png",
+    "version": "ceebcf25fc5e",
+    "hasDescription": true,
+    "title": "メビウス",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "崩壊3rd",
     "src": "images/崩壊3rd/リタ・ロスヴァイセ.png",
     "version": "501bbfb3d1c9",
     "hasDescription": true,
@@ -2732,6 +2786,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "0ae8ff49f398",
     "hasDescription": true,
     "title": "ルアン・メェイ",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "崩壊：スターレイル",
+    "src": "images/崩壊：スターレイル/ロビン.png",
+    "version": "d5e5c414cd68",
+    "hasDescription": true,
+    "title": "ロビン",
     "width": 941,
     "height": 1671
   },
@@ -3358,6 +3421,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "生死格鬥",
+    "src": "images/生死格鬥/かすみ.png",
+    "version": "cba11bb9a3b1",
+    "hasDescription": true,
+    "title": "かすみ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "生死格鬥",
     "src": "images/生死格鬥/こころ.png",
     "version": "3a3b04ff60eb",
     "hasDescription": true,
@@ -3571,6 +3643,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "クイーン・セレニティ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "美少女戦士セーラームーン",
+    "src": "images/美少女戦士セーラームーン/冥王せつな.png",
+    "version": "fbc468f17936",
+    "hasDescription": true,
+    "title": "冥王せつな",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "美少女戦士セーラームーン",
@@ -3796,6 +3877,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Katarina Alves",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "鐵拳",
+    "src": "images/鐵拳/Kunimitsu.png",
+    "version": "ba71282ecd26",
+    "hasDescription": true,
+    "title": "Kunimitsu",
+    "width": 941,
+    "height": 1670
   },
   {
     "category": "鐵拳",
