@@ -1180,30 +1180,12 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "NieR",
-    "src": "images/NieR/A2-02.png",
-    "version": "d230e6751910",
-    "hasDescription": true,
-    "title": "A2-02",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "NieR",
     "src": "images/NieR/A2-03.png",
     "version": "59701563ef14",
     "hasDescription": true,
     "title": "A2-03",
     "width": 942,
     "height": 1670
-  },
-  {
-    "category": "NieR",
-    "src": "images/NieR/A2.png",
-    "version": "624cdfcbf208",
-    "hasDescription": true,
-    "title": "A2",
-    "width": 941,
-    "height": 1672
   },
   {
     "category": "NieR",
