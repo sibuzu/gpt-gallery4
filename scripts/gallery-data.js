@@ -2521,15 +2521,6 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "僕のヒーローアカデミア",
-    "src": "images/僕のヒーローアカデミア/耳郎響香.png",
-    "version": "cb13bdae3fb7",
-    "hasDescription": true,
-    "title": "耳郎響香",
-    "width": 941,
-    "height": 1672
-  },
-  {
-    "category": "僕のヒーローアカデミア",
     "src": "images/僕のヒーローアカデミア/芦戸三奈.png",
     "version": "448b61f37f5c",
     "hasDescription": true,
