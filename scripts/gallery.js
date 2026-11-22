@@ -1,32 +1,35 @@
 const images = window.__GALLERY_IMAGES__ || [];
 
-// Only assign a URL once an image reaches the viewport. Native lazy loading
-// may fetch images several screens away, competing with visible images.
 const imageObserver = "IntersectionObserver" in window
   ? new IntersectionObserver((entries) => {
-      entries.forEach((entry) => {
-        if (!entry.isIntersecting) return;
-        loadCardImage(entry.target);
-        imageObserver.unobserve(entry.target);
+      const visibleImages = entries
+        .filter((entry) => entry.isIntersecting && entry.target.isConnected)
+        .map((entry) => entry.target);
+      visibleImages.forEach((image) => {
+        loadCardImage(image, "high");
+        imageObserver.unobserve(image);
+      });
+      visibleImages.forEach((image) => {
+        const nextCard = image.closest(".card").nextElementSibling;
+        const nextImage = nextCard?.querySelector(".card-media > img[data-src]");
+        if (!nextImage) return;
+        loadCardImage(nextImage, "low");
+        nextImage.decode?.().catch(() => {});
       });
     })
   : null;
 
-function loadCardImage(image) {
+function loadCardImage(image, priority) {
+  image.setAttribute("fetchpriority", priority);
   if (!image.dataset.src) return;
   image.loading = "eager";
-  image.setAttribute("fetchpriority", "high");
   image.src = image.dataset.src;
   delete image.dataset.src;
 }
 
 function observeCardImages() {
   grid.querySelectorAll(".card-media > img[data-src]").forEach((image) => {
-    const bounds = image.getBoundingClientRect();
-    if (bounds.bottom > 0 && bounds.top < window.innerHeight
-        && bounds.right > 0 && bounds.left < window.innerWidth) {
-      loadCardImage(image);
-    } else if (imageObserver) {
+    if (imageObserver) {
       imageObserver.observe(image);
     } else {
       image.src = image.dataset.src;
