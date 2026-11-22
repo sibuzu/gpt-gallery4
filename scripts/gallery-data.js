@@ -1036,6 +1036,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "NARUTO／BORUTO",
+    "src": "images/NARUTO／BORUTO/大筒木カグヤ.png",
+    "version": "729103625511",
+    "hasDescription": true,
+    "title": "大筒木カグヤ",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "NARUTO／BORUTO",
     "src": "images/NARUTO／BORUTO/小南.png",
     "version": "c6d445022791",
     "hasDescription": true,
@@ -1756,6 +1765,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "Tomb Raider",
+    "src": "images/Tomb Raider/Amanda Evert.png",
+    "version": "05cabf5678e0",
+    "hasDescription": true,
+    "title": "Amanda Evert",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "Tomb Raider",
     "src": "images/Tomb Raider/Jacqueline Natla.png",
     "version": "5f176c58e3bd",
     "hasDescription": true,
@@ -2287,6 +2305,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "亂馬½",
+    "src": "images/亂馬½/天道なびき-02.png",
+    "version": "696762d8ed0e",
+    "hasDescription": true,
+    "title": "天道なびき-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "亂馬½",
     "src": "images/亂馬½/天道なびき.png",
     "version": "79c54576e569",
     "hasDescription": true,
@@ -2310,6 +2337,15 @@ window.__GALLERY_IMAGES__ = [
     "hasDescription": true,
     "title": "早乙女らんま（女）",
     "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "亂馬½",
+    "src": "images/亂馬½/白鳥あずさ.png",
+    "version": "949445382765",
+    "hasDescription": true,
+    "title": "白鳥あずさ",
+    "width": 941,
     "height": 1670
   },
   {
@@ -2356,6 +2392,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "ミルコ",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "僕のヒーローアカデミア",
+    "src": "images/僕のヒーローアカデミア/レディ・ナガン.png",
+    "version": "0eee823bca05",
+    "hasDescription": true,
+    "title": "レディ・ナガン",
+    "width": 942,
+    "height": 1670
   },
   {
     "category": "僕のヒーローアカデミア",
@@ -3016,6 +3061,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "名探偵コナン",
+    "src": "images/名探偵コナン/Vermouth.png",
+    "version": "a3db051b41a0",
+    "hasDescription": true,
+    "title": "Vermouth",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "名探偵コナン",
     "src": "images/名探偵コナン/世良真純.png",
     "version": "0a7d5986647b",
     "hasDescription": true,
@@ -3157,6 +3211,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "アポニア",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "崩壊3rd",
+    "src": "images/崩壊3rd/エリシア.png",
+    "version": "ab423afd4aea",
+    "hasDescription": true,
+    "title": "エリシア",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "崩壊3rd",
@@ -3479,6 +3542,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "099e8517c5d1",
     "hasDescription": true,
     "title": "Elena",
+    "width": 942,
+    "height": 1670
+  },
+  {
+    "category": "快打旋風",
+    "src": "images/快打旋風/Falke.png",
+    "version": "dcdd08640e8f",
+    "hasDescription": true,
+    "title": "Falke",
     "width": 942,
     "height": 1670
   },
