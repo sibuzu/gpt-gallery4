@@ -1639,6 +1639,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "SPY×FAMILY",
+    "src": "images/SPY×FAMILY/アーニャ・フォージャー.png",
+    "version": "c1a0d3e39cc2",
+    "hasDescription": true,
+    "title": "アーニャ・フォージャー",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "SPY×FAMILY",
     "src": "images/SPY×FAMILY/カミラ.png",
     "version": "1ea630dfe75a",
     "hasDescription": true,
@@ -2970,6 +2979,15 @@ window.__GALLERY_IMAGES__ = [
     "height": 1671
   },
   {
+    "category": "名探偵コナン",
+    "src": "images/名探偵コナン/鈴木園子.png",
+    "version": "1667e4b68a78",
+    "hasDescription": true,
+    "title": "鈴木園子",
+    "width": 941,
+    "height": 1672
+  },
+  {
     "category": "呪術廻戦",
     "src": "images/呪術廻戦/三輪霞.png",
     "version": "2911894209dd",
@@ -3058,6 +3076,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "禪院真希",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "呪術廻戦",
+    "src": "images/呪術廻戦/西宮桃.png",
+    "version": "b7e78e827dd6",
+    "hasDescription": true,
+    "title": "西宮桃",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "呪術廻戦",
@@ -4291,6 +4318,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "海王みちる",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "美少女戦士セーラームーン",
+    "src": "images/美少女戦士セーラームーン/火野レイ.png",
+    "version": "3d3879b2a1af",
+    "hasDescription": true,
+    "title": "火野レイ",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "葬送のフリーレン",
