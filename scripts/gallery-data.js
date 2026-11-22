@@ -64,6 +64,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "BLACK LAGOON",
+    "src": "images/BLACK LAGOON/Eda.png",
+    "version": "2deae0bd0fb2",
+    "hasDescription": true,
+    "title": "Eda",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "BLACK LAGOON",
     "src": "images/BLACK LAGOON/Revy.png",
     "version": "71d55664c34b",
     "hasDescription": true,
@@ -394,6 +403,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "黒見セリカ",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "Devil May Cry",
+    "src": "images/Devil May Cry/Kyrie.png",
+    "version": "4fd0b74fdefe",
+    "hasDescription": true,
+    "title": "Kyrie",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "Devil May Cry",
@@ -1033,6 +1051,24 @@ window.__GALLERY_IMAGES__ = [
     "title": "2B",
     "width": 942,
     "height": 1670
+  },
+  {
+    "category": "NieR",
+    "src": "images/NieR/A2-02.png",
+    "version": "d230e6751910",
+    "hasDescription": true,
+    "title": "A2-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "NieR",
+    "src": "images/NieR/A2.png",
+    "version": "624cdfcbf208",
+    "hasDescription": true,
+    "title": "A2",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "NieR",
@@ -2197,6 +2233,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "僕のヒーローアカデミア",
+    "src": "images/僕のヒーローアカデミア/八百万百.png",
+    "version": "ca8e3ab010b2",
+    "hasDescription": true,
+    "title": "八百万百",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "僕のヒーローアカデミア",
     "src": "images/僕のヒーローアカデミア/拳藤一佳.png",
     "version": "4f55885a0708",
     "hasDescription": true,
@@ -2408,6 +2453,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "2335eab8fb66",
     "hasDescription": true,
     "title": "Helm",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "勝利の女神：NIKKE",
+    "src": "images/勝利の女神：NIKKE/Ludmilla.png",
+    "version": "0aa120025031",
+    "hasDescription": true,
+    "title": "Ludmilla",
     "width": 941,
     "height": 1672
   },
@@ -3022,6 +3076,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "無量塔姫子",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "崩壊3rd",
+    "src": "images/崩壊3rd/雷電芽衣.png",
+    "version": "4efe34a64556",
+    "hasDescription": true,
+    "title": "雷電芽衣",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "崩壊：スターレイル",
@@ -3763,6 +3826,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "生死格鬥",
+    "src": "images/生死格鬥/NiCO.png",
+    "version": "0968ed1abf81",
+    "hasDescription": true,
+    "title": "NiCO",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "生死格鬥",
     "src": "images/生死格鬥/Phase 4.png",
     "version": "ad291381575e",
     "hasDescription": true,
@@ -4375,6 +4447,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "鐵拳",
+    "src": "images/鐵拳/Nina Williams.png",
+    "version": "59198e7fce87",
+    "hasDescription": true,
+    "title": "Nina Williams",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "鐵拳",
     "src": "images/鐵拳/Reina.png",
     "version": "3db5ba7ea721",
     "hasDescription": true,
@@ -4489,6 +4570,24 @@ window.__GALLERY_IMAGES__ = [
     "title": "胡蝶カナエ",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "鬼滅の刃",
+    "src": "images/鬼滅の刃/雛鶴-02.png",
+    "version": "efdc365db0da",
+    "hasDescription": true,
+    "title": "雛鶴-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "鬼滅の刃",
+    "src": "images/鬼滅の刃/雛鶴.png",
+    "version": "dc9f0e6ed933",
+    "hasDescription": true,
+    "title": "雛鶴",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "鬼滅の刃",
