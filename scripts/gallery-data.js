@@ -3880,6 +3880,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "拳皇",
+    "src": "images/拳皇/Blue Mary-02.png",
+    "version": "2bb7d04b5733",
+    "hasDescription": true,
+    "title": "Blue Mary-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "拳皇",
     "src": "images/拳皇/Blue Mary.png",
     "version": "08b81eb6cea2",
     "hasDescription": true,
@@ -4006,6 +4015,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "拳皇",
+    "src": "images/拳皇/ユリ・サカザキ-02.png",
+    "version": "4707edb5e2e9",
+    "hasDescription": true,
+    "title": "ユリ・サカザキ-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "拳皇",
     "src": "images/拳皇/ユリ・サカザキ.png",
     "version": "d12d2c6da9bb",
     "hasDescription": true,
@@ -4037,6 +4055,24 @@ window.__GALLERY_IMAGES__ = [
     "version": "6f7f17dc3579",
     "hasDescription": true,
     "title": "麻宮アテナ",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "新世紀エヴァンゲリオン",
+    "src": "images/新世紀エヴァンゲリオン/伊吹マヤ-02.png",
+    "version": "dc344afc4332",
+    "hasDescription": true,
+    "title": "伊吹マヤ-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "新世紀エヴァンゲリオン",
+    "src": "images/新世紀エヴァンゲリオン/伊吹マヤ-03.png",
+    "version": "42ccbe855980",
+    "hasDescription": true,
+    "title": "伊吹マヤ-03",
     "width": 941,
     "height": 1672
   },
@@ -4339,6 +4375,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "生死格鬥",
+    "src": "images/生死格鬥/かすみ-02.png",
+    "version": "5bee28f3aad5",
+    "hasDescription": true,
+    "title": "かすみ-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "生死格鬥",
     "src": "images/生死格鬥/かすみ.png",
     "version": "cba11bb9a3b1",
     "hasDescription": true,
@@ -4546,6 +4591,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "真人快打",
+    "src": "images/真人快打/Skarlet-02.png",
+    "version": "cd2a8026e0c6",
+    "hasDescription": true,
+    "title": "Skarlet-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "真人快打",
     "src": "images/真人快打/Skarlet.png",
     "version": "d7b6ad7c704e",
     "hasDescription": true,
@@ -4667,6 +4721,15 @@ window.__GALLERY_IMAGES__ = [
     "version": "0821410b33db",
     "hasDescription": true,
     "title": "海王みちる",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "美少女戦士セーラームーン",
+    "src": "images/美少女戦士セーラームーン/火野レイ-02.png",
+    "version": "f04d786f999e",
+    "hasDescription": true,
+    "title": "火野レイ-02",
     "width": 941,
     "height": 1671
   },
@@ -4822,6 +4885,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "Alisa Bosconovitch",
     "width": 941,
     "height": 1672
+  },
+  {
+    "category": "鐵拳",
+    "src": "images/鐵拳/Angel-02.png",
+    "version": "52bc9f1973e2",
+    "hasDescription": true,
+    "title": "Angel-02",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "鐵拳",
