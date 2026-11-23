@@ -1747,11 +1747,29 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "SPY×FAMILY",
+    "src": "images/SPY×FAMILY/フィオナ・フロスト-02.png",
+    "version": "5bcafc3e82bd",
+    "hasDescription": true,
+    "title": "フィオナ・フロスト-02",
+    "width": 941,
+    "height": 1672
+  },
+  {
+    "category": "SPY×FAMILY",
     "src": "images/SPY×FAMILY/フィオナ・フロスト.png",
     "version": "b792276f4d12",
     "hasDescription": true,
     "title": "フィオナ・フロスト",
     "width": 940,
+    "height": 1672
+  },
+  {
+    "category": "SPY×FAMILY",
+    "src": "images/SPY×FAMILY/ベッキー・ブラックベル-02.png",
+    "version": "e95f907458ba",
+    "hasDescription": true,
+    "title": "ベッキー・ブラックベル-02",
+    "width": 941,
     "height": 1672
   },
   {
@@ -1879,6 +1897,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "弁天",
     "width": 941,
     "height": 1671
+  },
+  {
+    "category": "うる星やつら",
+    "src": "images/うる星やつら/藤波竜之介-02.png",
+    "version": "647416e8eabb",
+    "hasDescription": true,
+    "title": "藤波竜之介-02",
+    "width": 941,
+    "height": 1672
   },
   {
     "category": "うる星やつら",
@@ -2071,6 +2098,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "クレイモア",
+    "src": "images/クレイモア/Ophelia-02.png",
+    "version": "ec7b356fe0a7",
+    "hasDescription": true,
+    "title": "Ophelia-02",
+    "width": 941,
+    "height": 1671
+  },
+  {
+    "category": "クレイモア",
     "src": "images/クレイモア/Ophelia.png",
     "version": "dbd0e09ddbe4",
     "hasDescription": true,
@@ -2206,6 +2242,15 @@ window.__GALLERY_IMAGES__ = [
   },
   {
     "category": "ダンジョン飯",
+    "src": "images/ダンジョン飯/イヅツミ-02.png",
+    "version": "6e354899f282",
+    "hasDescription": true,
+    "title": "イヅツミ-02",
+    "width": 941,
+    "height": 1670
+  },
+  {
+    "category": "ダンジョン飯",
     "src": "images/ダンジョン飯/イヅツミ.png",
     "version": "4a4c73f51172",
     "hasDescription": true,
@@ -2230,6 +2275,15 @@ window.__GALLERY_IMAGES__ = [
     "title": "白鳥愛羅",
     "width": 941,
     "height": 1670
+  },
+  {
+    "category": "ダンダダン",
+    "src": "images/ダンダダン/綾瀬桃-02.png",
+    "version": "e331aa83116e",
+    "hasDescription": true,
+    "title": "綾瀬桃-02",
+    "width": 941,
+    "height": 1671
   },
   {
     "category": "ダンダダン",
